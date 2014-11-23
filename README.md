@@ -99,7 +99,9 @@ Other useful pages
 - [stackoverflow](http://stackoverflow.com)  
 
 
-If you have other items for continuous integration and continuous delivery, please send me by email itech001@126.com.
+Contact me for more items about continuous integration and continuous delivery:  
+Email itech001@126.com  
+
 
 
 
