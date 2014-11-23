@@ -23,6 +23,17 @@ The system for software build and release, continuous integration and continuous
 - [VisualBuild](http://www.kinook.com/VisBuildPro)  
 - [cruisecontrol](http://www.cruisecontrolnet.org)  
 
+###Infrastructure
+The hardware,virtual machines, fram management, docker
+- [GridWiki](http://wiki.gridengine.info/wiki/index.php/Main_Page)  
+- [UGE](http://www.univa.com)  
+- [SGE](gridscheduler.sourceforge.net)  
+- [LSF](http://www-03.ibm.com/systems/platformcomputing/products/lsf)  
+- [vmwarevshpere](http://www.vmware.com/products/vsphere)  
+- [ctrixserver](http://www.citrix.com/products/xenserver/overview.html)  
+- [miscrosofthyperv]()  
+- [docker](https://www.docker.com) 
+
 ###Source code Management
 Version control and source code management tools
 - [git](http://git-scm.com)  
@@ -79,7 +90,10 @@ The tools for web site deploy
 ###Delivery
 The tools for software delivery
 
-###Other
+###OS and Shell
+Linux shell, perl, python
+
+###Useful sites
 Other useful pages
 - [infoq](http://www.infoq.com)  
 - [stackoverflow](http://stackoverflow.com)  
