@@ -9,6 +9,7 @@ continuous integration and continuous delivery
 [continuousdelivery](http://continuousdelivery.com)  
 
 ###DevOps
+[devopsdays](http://www.devopsdays.org)  
 
 ###System
 [Jenkins](http://jenkins-ci.org)  
@@ -37,7 +38,8 @@ continuous integration and continuous delivery
 [gnuautoconf](http://www.gnu.org/software/autoconf)
 [mozillabuildtools](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions)  
 [scons](http://www.scons.org)  
-[cmake](http://www.cmake.org)   
+[cmake](http://www.cmake.org)  
+[msbuild](http://msdn.microsoft.com/en-us/library/dd393574.aspx)  
 
 ###StaticCheck
 [coverity](http://www.coverity.com/)  
@@ -53,6 +55,7 @@ continuous integration and continuous delivery
 
 
 ###Package
+[installshield](http://www.installshield.com)  
 
 ###Deploy
 
