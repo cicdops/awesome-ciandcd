@@ -2,16 +2,10 @@ ciandcd
 =======
 continuous integration and continuous delivery
 
-###Continuous Integration
-The theory for continuous integration
+###Theory
+The theory for continuous integration and continuous deliver
 - [continuousIntegration](http://martinfowler.com/articles/continuousIntegration.html)  
-
-###Continuous Delivery
-The theory for continuous delivery
 - [continuousdelivery](http://continuousdelivery.com)  
-
-###DevOps
-The theory for devops
 - [devopsdays](http://www.devopsdays.org)  
 
 ###Release System
@@ -39,7 +33,11 @@ Version control and source code management tools
 
 ###Code Review
 code review tools
-
+- [codecollaborator](http://smartbear.com/products/software-development/code-review) 
+- [crucible](http://www.atlassian.com/software/crucible/overview)  
+- [reviewboard](http://www.reviewboard.org)  
+- [codestriker](http://codestriker.sourceforge.net)  
+- [rietveld](http://code.google.com/p/rietveld)  
 
 ###Build
 Build tools
@@ -53,9 +51,11 @@ Build tools
 ###StaticCheck
 software static check tools
 - [coverity](http://www.coverity.com/)  
+- [fxcop](http://msdn.microsoft.com/en-us/library/bb429476%28VS.80%29.aspx)  
 
 ###DynamicCheck
 software dynamic check tools
+- [purify]()  
 
 ###Coverage
 software testing coverage tools
