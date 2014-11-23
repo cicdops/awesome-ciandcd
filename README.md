@@ -3,17 +3,21 @@ ciandcd
 continuous integration and continuous delivery
 
 ###Continuous Integration
-[continuousIntegration](http://martinfowler.com/articles/continuousIntegration.html)  
+The theory for continuous integration
+- [continuousIntegration](http://martinfowler.com/articles/continuousIntegration.html)  
 
 ###Continuous Delivery
-[continuousdelivery](http://continuousdelivery.com)  
+The theory for continuous delivery
+- [continuousdelivery](http://continuousdelivery.com)  
 
 ###DevOps
-[devopsdays](http://www.devopsdays.org)  
+The theory for devops
+- [devopsdays](http://www.devopsdays.org)  
 
-###System
-[Jenkins](http://jenkins-ci.org)  
-[BuildForge](https://jazz.net/downloads/rational-build-forge)  
+###Release System
+The system for software build and release, continuous integration and continuous delivery.
+- [Jenkins](http://jenkins-ci.org)  
+- [BuildForge](https://jazz.net/downloads/rational-build-forge)  
 [ElectricCommander](http://www.electric-cloud.com/products/electriccommander.php)  
 [Teamcity](http://www.jetbrains.com/teamcity/index.html)  
 [go](http://www.go.cd)  
@@ -56,6 +60,7 @@ continuous integration and continuous delivery
 
 ###Package
 [installshield](http://www.installshield.com)  
+[NSIS](http://nsis.sourceforge.net)  
 
 ###Deploy
 
@@ -66,7 +71,7 @@ continuous integration and continuous delivery
 [stackoverflow](http://stackoverflow.com)  
 
 
-Author:itech001(at)126.com
+If you have other items for continuous integration and continuous delivery, please send me by email itech001@126.com.
 
 
 
