@@ -132,6 +132,17 @@ The tools for software delivery
 - [archiva](http://archiva.apache.org/index.cgi)  
 - [nexus](http://www.sonatype.com/nexus)  
 
+###provisioning tools for application 
+- [Puppet]() Build, destroy and rebuild servers on any public or private cloud    
+- [Chef](http://www.opscode.com/chef)  Fast, scalable and flexible software for data center automation  
+- [SaltStack](http://www.saltstack.com/community) Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine  
+- [ansible](http://www.ansible.com)  
+
+###Web Server
+- [apache](https://httpd.apache.org)  Apache httpd has been the most popular web server on the Internet since April 1996
+- [nginx](http://nginx.org) A high performance free open source web server powering busiest sites on the Internet  
+- [tomcat](http://tomcat.apache.org)  An open source software implementation of the Java Servlet and JavaServer Pages technologies  
+
 ###OS and Shell
 Linux shell, perl, python
 
@@ -139,7 +150,6 @@ Linux shell, perl, python
 Other useful pages
 - [infoq](http://www.infoq.com)  
 - [stackoverflow](http://stackoverflow.com)  
-
 
 Contact me for more items about continuous integration and continuous delivery:  
 Email itech001@126.com  
