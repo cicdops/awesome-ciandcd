@@ -11,18 +11,19 @@ The theory for continuous integration and continuous deliver
 ###Build And Release System
 The system for software build and release, continuous integration and continuous delivery.
 - [Jenkins](http://jenkins-ci.org)  An extendable open source continuous integration server  
-- [BuildForge](https://jazz.net/downloads/rational-build-forge)  
+- [BuildForge](https://jazz.net/downloads/rational-build-forge)  Automate and accelerate build and release processes  
 - [ElectricCommander](http://www.electric-cloud.com/products/electriccommander.php)  
-- [Teamcity](http://www.jetbrains.com/teamcity/index.html)  
-- [bamboo](https://www.atlassian.com/software/bamboo)  
-- [go](http://www.go.cd)  
-- [hudson](http://hudson-ci.org)  
-- [openbuildservice](http://openbuildservice.org)  
-- [buildbot](http://trac.buildbot.net)   
-- [Parabuild](http://www.viewtier.com/index.htm)  
-- [FinalBuilder](https://www.finalbuilder.com/)  
-- [VisualBuild](http://www.kinook.com/VisBuildPro)  
-- [cruisecontrol](http://www.cruisecontrolnet.org)  
+- [Teamcity](http://www.jetbrains.com/teamcity/index.html)  Ready to work, extensible 
+and developer-friendly build server — out of the box 
+- [bamboo](https://www.atlassian.com/software/bamboo)  Bamboo does more than just run builds and tests. It connects issues, commits, test results, and deploys so the whole picture is available to your entire product team  
+- [go](http://www.go.cd)  Automate and streamline the build-test-release cycle for worry-free, continuous delivery of your product  
+- [hudson](http://hudson-ci.org)  the previous one of Jenkins  
+- [openbuildservice](http://openbuildservice.org)  The Open Build Service (OBS) is a generic system to build and distribute binary packages from sources in an automatic, consistent and reproducible way. You can release packages as well as updates, add-ons, appliances and entire distributions for a wide range of operating systems and hardware architectures  
+- [buildbot](http://trac.buildbot.net)   Buildbot is a continuous integration system designed to automate the build/test cycle. By automatically rebuilding and testing the tree each time something has changed, build problems are pinpointed quickly, before other developers are inconvenienced by the failure  
+- [Parabuild](http://www.viewtier.com/index.htm)  Parabuild is an enterprise software build and release management system that helps software teams to release on time by providing them practically unbreakable release builds and Continuous Integration  
+- [FinalBuilder](https://www.finalbuilder.com/)  Automating your Build process is simple with FinalBuilder. With FinalBuilder you don't need to edit xml, or  write scripts. Visually define and debug your build scripts, then schedule them with windows scheduler, or integrate them with Continua CI, Jenkins or any other CI Server  
+- [VisualBuild](http://www.kinook.com/VisBuildPro)  Visual Build enables developers and build masters to easily create an automated, repeatable build process  
+- [cruisecontrol](http://www.cruisecontrolnet.org)  CruiseControl.NET, an Automated Continuous Integration server, implemented using the .NET Framework  
 
 ###Online Build System
 - [coveralls](https://coveralls.io)  Track your project's code coverage over time, changes to files, and badge your GitHub repo
