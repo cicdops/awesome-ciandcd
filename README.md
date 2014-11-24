@@ -26,7 +26,7 @@ and developer-friendly build server — out of the box
 - [cruisecontrol](http://www.cruisecontrolnet.org)  CruiseControl.NET, an Automated Continuous Integration server, implemented using the .NET Framework  
 
 ###Online Build System
-- [cloudbees](http://www.cloudbees.com) 
+- [cloudbees](http://www.cloudbees.com) the Enterprise Jenkins Company  
 - [coveralls](https://coveralls.io)  Track your project's code coverage over time, changes to files, and badge your GitHub repo
 - [shippable](https://www.shippable.com)  Hosted continuous integration and deployment service built on docker  
 - [circleci](https://circleci.com)  Continuous Integration for web apps.  
@@ -64,6 +64,7 @@ Version control and source code management tools
 - [gitlab](https://www.gitlab.com)  Open source self-hosted Git management software  
 - [github](https://github.com)  Powerful collaboration, review, and code management for open source and private development projects.
 - [bitbuckets](https://bitbucket.org)  Plant your code in the cloud. Watch it grow.
+- [teamfoundationservice](http://tfs.visualstudio.com)  Visual Studio Online, based on the capabilities of Team Foundation Server with additional cloud services, is the online home for your development projects. Get up and running in minutes on our cloud infrastructure without having to install or configure a single server. Visual Studio Online connects to Visual Studio, Eclipse, Xcode, and other Git clients to support development for a variety of platforms and languages  
 
 ###Code Review
 code review tools
