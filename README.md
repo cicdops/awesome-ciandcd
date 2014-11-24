@@ -12,7 +12,7 @@ The theory for continuous integration and continuous deliver
 The system for software build and release, continuous integration and continuous delivery.
 - [Jenkins](http://jenkins-ci.org)  An extendable open source continuous integration server  
 - [BuildForge](https://jazz.net/downloads/rational-build-forge)  Automate and accelerate build and release processes  
-- [ElectricCommander](http://www.electric-cloud.com/products/electriccommander.php)  
+- [ElectricCommander](http://www.electric-cloud.com/products/electriccommander.php)  ElectricCommander gives distributed teams shared control and visibility into infrastructure, tool chains and processes. It accelerates and automates the software delivery process to enable agility, predictability and security across many build-test-deploy pipelines  
 - [Teamcity](http://www.jetbrains.com/teamcity/index.html)  Ready to work, extensible 
 and developer-friendly build server — out of the box 
 - [bamboo](https://www.atlassian.com/software/bamboo)  Bamboo does more than just run builds and tests. It connects issues, commits, test results, and deploys so the whole picture is available to your entire product team  
@@ -26,6 +26,7 @@ and developer-friendly build server — out of the box
 - [cruisecontrol](http://www.cruisecontrolnet.org)  CruiseControl.NET, an Automated Continuous Integration server, implemented using the .NET Framework  
 
 ###Online Build System
+- [cloudbees](http://www.cloudbees.com) 
 - [coveralls](https://coveralls.io)  Track your project's code coverage over time, changes to files, and badge your GitHub repo
 - [shippable](https://www.shippable.com)  Hosted continuous integration and deployment service built on docker  
 - [circleci](https://circleci.com)  Continuous Integration for web apps.  
@@ -83,6 +84,7 @@ Build tools
 - [ant](http://ant.apache.org)  Ant can be used to pilot any type of process which can be described in terms of targets and tasks. The main known usage of Ant is the build of Java applications.  
 - [maven](http://maven.apache.org)  Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.  
 - [gradle](http://www.gradle.org)   Gradle is build automation evolved. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.  
+- [ElectricCommander](http://electric-cloud.com/products/electricaccelerator)   Continuous Delivery isn’t continuous if builds and tests take too long to complete. ElectricAccelerator speeds up builds and tests by up to 20X, improving software time to market, infrastructure utilization and developer productivity  
 
 ###StaticCheck
 software static check tools
