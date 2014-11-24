@@ -96,6 +96,10 @@ software static check tools
 ###DynamicCheck
 software dynamic check tools
 - [purify]()  
+- [dynamictoolswiki](http://en.wikipedia.org/wiki/Dynamic_program_analysis)  
+
+###Performance analysis
+- [performancetoolswiki](http://en.wikipedia.org/wiki/List_of_performance_analysis_tools)  
 
 ###Coverage
 software testing coverage tools
@@ -112,12 +116,21 @@ software testing framework and tools
 The tools for software package and installation
 - [installshield](http://www.installshield.com)  
 - [NSIS](http://nsis.sourceforge.net)  
+- [rpm](http://rpm.org)  
+- [yum](http://yum.baseurl.org)  
 
 ###Deploy
 The tools for web site deploy
+- [jfrog](http://www.jfrog.com)
+- [xl-deploy](http://xebialabs.com/products/xl-deploy)  
+- [Jenkinsdeployplugin]()   
+- [](https://bintray.com)  
 
 ###Delivery
 The tools for software delivery
+- [sl-release](http://xebialabs.com/products/xl-release)  
+- [archiva](http://archiva.apache.org/index.cgi)  
+- [nexus](http://www.sonatype.com/nexus)  
 
 ###OS and Shell
 Linux shell, perl, python
