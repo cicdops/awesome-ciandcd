@@ -10,7 +10,7 @@ The theory for continuous integration and continuous deliver
 
 ###Build And Release System
 The system for software build and release, continuous integration and continuous delivery.
-- [Jenkins](http://jenkins-ci.org)  
+- [Jenkins](http://jenkins-ci.org)  An extendable open source continuous integration server  
 - [BuildForge](https://jazz.net/downloads/rational-build-forge)  
 - [ElectricCommander](http://www.electric-cloud.com/products/electriccommander.php)  
 - [Teamcity](http://www.jetbrains.com/teamcity/index.html)  
