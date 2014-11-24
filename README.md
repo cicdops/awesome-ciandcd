@@ -58,6 +58,9 @@ Build tools
 - [scons](http://www.scons.org)  
 - [cmake](http://www.cmake.org)  
 - [msbuild](http://msdn.microsoft.com/en-us/library/dd393574.aspx)  
+- [ant](http://ant.apache.org)  Ant can be used to pilot any type of process which can be described in terms of targets and tasks. The main known usage of Ant is the build of Java applications.  
+- [maven](http://maven.apache.org)  Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.  
+- [gradle](http://www.gradle.org)   Gradle is build automation evolved. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.  
 
 ###StaticCheck
 software static check tools
