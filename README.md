@@ -1,6 +1,6 @@
 ciandcd
 =======
-Continuous Integration and Continuous Deliver
+**Continuous Integration and Continuous Delivery**
 
 A curated list of awesome tools for：
 continuous integration  
@@ -12,6 +12,7 @@ devops
 The theory for continuous integration and continuous deliver
 - [continuousIntegration](http://martinfowler.com/articles/continuousIntegration.html)  
 - [continuousdelivery](http://continuousdelivery.com)  
+- [software integration](http://en.wikipedia.org/wiki/System_integration)  
 - [devopsdays](http://www.devopsdays.org)  
 
 ###Build And Release System
@@ -160,6 +161,9 @@ Linux shell, perl, python
 Other useful pages
 - [infoq](http://www.infoq.com)  
 - [stackoverflow](http://stackoverflow.com)  
+
+###conference and submit
+- [devops submit](http://devopssummit.sys-con.com)  
 
 ###Other Awesome Lists
 Other amazingly awesome lists can be found in awesome-awesome and awesome-awesomeness.  
