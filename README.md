@@ -1,6 +1,10 @@
 ciandcd
 =======
-continuous integration and continuous delivery
+A curated list of awesome tools for:
+continuous integration
+continuous delivery
+software integration
+devops
 
 ###Theory
 The theory for continuous integration and continuous deliver
@@ -155,9 +159,12 @@ Other useful pages
 - [infoq](http://www.infoq.com)  
 - [stackoverflow](http://stackoverflow.com)  
 
+###Other Awesome Lists
+Other amazingly awesome lists can be found in awesome-awesome and awesome-awesomeness.  
+
+###Contact
 Contact me for more items about continuous integration and continuous delivery:  
 Email itech001@126.com  
 
-
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
