@@ -2,7 +2,7 @@ ciandcd
 =======
 **Continuous Integration and Continuous Delivery**
 
-A curated list of awesome tools for：
+A curated list of awesome tools for： 
 continuous integration  
 continuous delivery  
 software integration  
@@ -63,11 +63,11 @@ The hardware,virtual machines, fram management, docker
 
 ###Source code Management
 Version control and source code management tools
-- [git](http://git-scm.com)  
-- [perforce](http://www.perforce.com)  
-- [clearcase]()  
-- [mercurial](http://mercurial.selenic.com)  
-- [svn](http://subversion.apache.org)  
+- [git](http://git-scm.com)  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency  
+- [perforce](http://www.perforce.com)  Industry’s most reliable and proven platform for versioning code, images, documents... everything
+- [clearcase](http://www-03.ibm.com/software/products/en/clearcase)  IBM Rational ClearCase is a software configuration management solution that provides version control, workspace management, parallel development support, and build auditing  
+- [mercurial](http://mercurial.selenic.com)  Mercurial is a free, distributed source control management tool. It efficiently handles projects of any size and offers an easy and intuitive interface  
+- [svn](http://subversion.apache.org)  Subversion is an open source version control system  
 - [gitlab](https://www.gitlab.com)  Open source self-hosted Git management software  
 - [github](https://github.com)  Powerful collaboration, review, and code management for open source and private development projects.
 - [bitbuckets](https://bitbucket.org)  Plant your code in the cloud. Watch it grow.
