@@ -96,24 +96,24 @@ Build tools
 
 ###StaticCheck
 software static check tools
+- [static tools wiki](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) static tools compare wiki page  
 - [coverity](http://www.coverity.com/)  
 - [fxcop](http://msdn.microsoft.com/en-us/library/bb429476%28VS.80%29.aspx)  
-- [statictoolswiki](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) static tools compare wiki page  
 - [cpd](http://pmd.sourceforge.net/pmd-4.3.0/cpd.html) 
-- [sonar]()  
-- [findbugs](http://findbugs.sourceforge.net)  FindBugs™ - Find Bugs in Java Programs  
+- [sonar](http://www.sonarqube.org)  
+- [findbugs](http://findbugs.sourceforge.net)  
 - [checkstyle](http://checkstyle.sourceforge.net)  
 
 ###DynamicCheck
 software dynamic check tools
-- [purify]()  
-- [dynamictoolswiki](http://en.wikipedia.org/wiki/Dynamic_program_analysis)  
+- [dynamic tools wiki](http://en.wikipedia.org/wiki/Dynamic_program_analysis)  
 
 ###Performance analysis
-- [performancetoolswiki](http://en.wikipedia.org/wiki/List_of_performance_analysis_tools)  
+- [performance tools wiki](http://en.wikipedia.org/wiki/List_of_performance_analysis_tools)  
 
 ###Coverage
 software testing coverage tools
+- code coverage wiki](http://en.wikipedia.org/wiki/Code_coverage)  
 
 ###Testing
 software testing framework and tools
@@ -156,6 +156,7 @@ The tools for software delivery
 
 ###OS and Shell
 Linux shell, perl, python
+
 
 ###Useful sites
 Other useful pages
