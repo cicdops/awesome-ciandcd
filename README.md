@@ -1,10 +1,10 @@
 ciandcd
 =======
-A curated list of awesome tools for:
-continuous integration
-continuous delivery
-software integration
-devops
+A curated list of awesome tools for:  
+continuous integration  
+continuous delivery  
+software integration  
+devops  
 
 ###Theory
 The theory for continuous integration and continuous deliver
