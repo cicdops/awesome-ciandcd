@@ -10,27 +10,27 @@ devops
 
 ###Index
 - [Theory](#Theory)
-- [Build And Release System](#Build And Release System)
-- [Online Build System](#Online Build System)
+- [Build And Release System](#Build-And-Release-System)
+- [Online Build System](#Online-Build-System)
 - [Infrastructure](#Infrastructure)
-- [Source code Management](#Source code Management)
-- [Code Review](#Code Review)
+- [Source Code Management](#Source-code-Management)
+- [Code Review](#Code-Review)
 - [Build](#Build)
-- [StaticCheck](#StaticCheck)
-- [DynamicCheck](#DynamicCheck)
-- [Performance analysis](#Performance analysis)
+- [Static Check](#Static-Check)
+- [Dynamic Check](#Dynamic-Check)
+- [Performance Analysis](#Performance-Analysis)
 - [Coverage](#Coverage)
 - [Testing](#Testing)
 - [Package](#Package)
 - [Deploy](#Deploy)
 - [Delivery](#Delivery)
-- [provisioning tools](#provisioning tools)
-- [Web Server](#Web Server)
-- [OS and Shell](#OS and Shell)
-- [Useful sites](#Useful sites)
-- [conference and submit](#conference and submit)
-- [Other Awesome Lists](#Other Awesome Lists)
-- [Contact](#contact)
+- [Provisioning Tools](#provisioning-Tools)
+- [Web Server](#Web-Server)
+- [OS And Shell](#OS-and-Shell)
+- [Useful Sites](#Useful-Sites)
+- [Conference And Submit](#Conference-And-Submit)
+- [Other Awesome Lists](#Other-Awesome-Lists)
+- [Contact](#Contact)
 
 ###Theory
 The theory for continuous integration and continuous deliver
@@ -85,7 +85,7 @@ The hardware,virtual machines, fram management, docker
 - [docker](https://www.docker.com) Docker - An open platform for distributed applications for developers and sysadmins  
 - [amazon](http://aws.amazon.com/ec2) Scalable, pay-as-you-go compute capacity in the cloud  
 
-###Source code Management
+###Source Code Management
 Version control and source code management tools
 - [git](http://git-scm.com)  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency  
 - [perforce](http://www.perforce.com)  Industry’s most reliable and proven platform for versioning code, images, documents... everything
@@ -118,7 +118,7 @@ Build tools
 - [gradle](http://www.gradle.org)   Gradle is build automation evolved. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.  
 - [ElectricCommander](http://electric-cloud.com/products/electricaccelerator)   Continuous Delivery isn’t continuous if builds and tests take too long to complete. ElectricAccelerator speeds up builds and tests by up to 20X, improving software time to market, infrastructure utilization and developer productivity  
 
-###StaticCheck
+###Static Check
 software static check tools
 - [static tools wiki](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) static tools compare wiki page  
 - [coverity](http://www.coverity.com/)  
@@ -128,11 +128,11 @@ software static check tools
 - [findbugs](http://findbugs.sourceforge.net)  
 - [checkstyle](http://checkstyle.sourceforge.net)  
 
-###DynamicCheck
+###Dynamic Check
 software dynamic check tools
 - [dynamic tools wiki](http://en.wikipedia.org/wiki/Dynamic_program_analysis)  
 
-###Performance analysis
+###Performance Analysis
 - [performance tools wiki](http://en.wikipedia.org/wiki/List_of_performance_analysis_tools)  
 
 ###Coverage
@@ -167,7 +167,7 @@ The tools for software delivery
 - [archiva](http://archiva.apache.org/index.cgi)  
 - [nexus](http://www.sonatype.com/nexus)  
 
-###provisioning tools for application 
+###Provisioning Tools 
 - [Puppet]() Build, destroy and rebuild servers on any public or private cloud    
 - [Chef](http://www.opscode.com/chef)  Fast, scalable and flexible software for data center automation  
 - [SaltStack](http://www.saltstack.com/community) Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine  
@@ -178,7 +178,7 @@ The tools for software delivery
 - [nginx](http://nginx.org) A high performance free open source web server powering busiest sites on the Internet  
 - [tomcat](http://tomcat.apache.org)  An open source software implementation of the Java Servlet and JavaServer Pages technologies  
 
-###OS and Shell
+###OS And Shell
 Linux shell, perl, python
 - [shell](https://github.com/itech001/awesome-shell/blob/master/README.md)  
 - [awesome-python](https://github.com/vinta/awesome-python) 
@@ -186,12 +186,12 @@ Linux shell, perl, python
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
 
 
-###Useful sites
+###Useful Sites
 Other useful pages
 - [infoq](http://www.infoq.com)  
 - [stackoverflow](http://stackoverflow.com)  
 
-###conference and submit
+###Conference And Submit
 - [devops submit](http://devopssummit.sys-con.com)  
 
 ###Other Awesome Lists
