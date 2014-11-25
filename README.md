@@ -2,7 +2,7 @@ ciandcd
 =======
 **Continuous Integration and Continuous Delivery**
 
-A curated list of awesome tools for： 
+A curated list of awesome tools for:   
 continuous integration  
 continuous delivery  
 software integration  
@@ -75,20 +75,20 @@ Version control and source code management tools
 
 ###Code Review
 code review tools
-- [codecollaborator](http://smartbear.com/products/software-development/code-review) 
-- [crucible](http://www.atlassian.com/software/crucible/overview)  
-- [reviewboard](http://www.reviewboard.org)  
+- [codecollaborator](http://smartbear.com/products/software-development/code-review) Collaborator helps development, testing and management teams work together to produce high quality code  
+- [crucible](http://www.atlassian.com/software/crucible/overview)  Code reviews = quality code. Review code, discuss changes, share knowledge, and identify defects with Crucible's flexible review workflow. It's code review made easy for Subversion, CVS, Perforce, and more  
+- [reviewboard](http://www.reviewboard.org)  Review Board takes the pain out of code review, saving you time, money, and sanity so you can focus on making great software  
 - [codestriker](http://codestriker.sourceforge.net)  
 - [rietveld](http://code.google.com/p/rietveld)  
 
 ###Build
 Build tools
-- [gnumake](http://www.gnu.org/software/make)
-- [gnuautoconf](http://www.gnu.org/software/autoconf)
-- [mozillabuildtools](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions)  
-- [scons](http://www.scons.org)  
-- [cmake](http://www.cmake.org)  
-- [msbuild](http://msdn.microsoft.com/en-us/library/dd393574.aspx)  
+- [gnumake](http://www.gnu.org/software/make) GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program's source files  
+- [gnuautoconf](http://www.gnu.org/software/autoconf) Autoconf is an extensible package of M4 macros that produce shell scripts to automatically configure software source code packages  
+- [mozillabuildtools](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions)  The Mozilla build system, like the rest of the Mozilla codebase, is cross-platform. It uses traditional Unix-style autoconf and make tools to build the various applications (even on non-unix operating systems)
+- [scons](http://www.scons.org)  SCons is an Open Source software construction tool—that is, a next-generation build tool. Think of SCons as an improved, cross-platform substitute for the classic Make utility with integrated functionality similar to autoconf/automake and compiler caches such as ccache. In short, SCons is an easier, more reliable and faster way to build software  
+- [cmake](http://www.cmake.org)  cmake offers robust, cross-platform software development solutions. Find out how we can help your team efficiently manage the build, test, and package process for your software project  
+- [msbuild](http://msdn.microsoft.com/en-us/library/dd393574.aspx)  The Microsoft Build Engine is a platform for building applications. This engine, which is also known as MSBuild, provides an XML schema for a project file that controls how the build platform processes and builds software. Visual Studio uses MSBuild, but it doesn't depend on Visual Studio. By invoking msbuild.exe on your project or solution file, you can orchestrate and build products in environments where Visual Studio isn't installed  
 - [ant](http://ant.apache.org)  Ant can be used to pilot any type of process which can be described in terms of targets and tasks. The main known usage of Ant is the build of Java applications.  
 - [maven](http://maven.apache.org)  Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.  
 - [gradle](http://www.gradle.org)   Gradle is build automation evolved. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.  
