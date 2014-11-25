@@ -8,6 +8,30 @@ continuous delivery
 software integration  
 devops  
 
+###Index
+- [Theory](#Theory)
+- [Build And Release System](#Build And Release System)
+- [Online Build System](#Online Build System)
+- [Infrastructure](#Infrastructure)
+- [Source code Management](#Source code Management)
+- [Code Review](#Code Review)
+- [Build](#Build)
+- [StaticCheck](#StaticCheck)
+- [DynamicCheck](#DynamicCheck)
+- [Performance analysis](#Performance analysis)
+- [Coverage](#Coverage)
+- [Testing](#Testing)
+- [Package](#Package)
+- [Deploy](#Deploy)
+- [Delivery](#Delivery)
+- [provisioning tools](#provisioning tools)
+- [Web Server](#Web Server)
+- [OS and Shell](#OS and Shell)
+- [Useful sites](#Useful sites)
+- [conference and submit](#conference and submit)
+- [Other Awesome Lists](#Other Awesome Lists)
+- [Contact](#contact)
+
 ###Theory
 The theory for continuous integration and continuous deliver
 - [continuousIntegration](http://martinfowler.com/articles/continuousIntegration.html)  
@@ -156,6 +180,10 @@ The tools for software delivery
 
 ###OS and Shell
 Linux shell, perl, python
+- [shell](https://github.com/itech001/awesome-shell/blob/master/README.md)  
+- [awesome-python](https://github.com/vinta/awesome-python) 
+- [awesome-perl](https://github.com/mackee/awesome-perl)
+- [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
 
 
 ###Useful sites
@@ -167,7 +195,7 @@ Other useful pages
 - [devops submit](http://devopssummit.sys-con.com)  
 
 ###Other Awesome Lists
-Other amazingly awesome lists can be found in awesome-awesome and awesome-awesomeness.  
+Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
 ###Contact
 Contact me for more items about continuous integration and continuous delivery:  
