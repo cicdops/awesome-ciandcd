@@ -1,5 +1,4 @@
-ciandcd
-=======
+#ciandcd
 **Continuous Integration and Continuous Delivery**
 
 A curated list of awesome tools for:   
@@ -8,7 +7,7 @@ continuous delivery
 software integration  
 devops  
 
-###Index
+##Index
 - [Theory](#Theory)
 - [Build And Release System](#Build-And-Release-System)
 - [Online Build System](#Online-Build-System)
@@ -32,14 +31,14 @@ devops
 - [Other Awesome Lists](#Other-Awesome-Lists)
 - [Contact](#Contact)
 
-###Theory
+##Theory
 The theory for continuous integration and continuous deliver
 - [continuousIntegration](http://martinfowler.com/articles/continuousIntegration.html)  
 - [continuousdelivery](http://continuousdelivery.com)  
 - [software integration](http://en.wikipedia.org/wiki/System_integration)  
 - [devopsdays](http://www.devopsdays.org)  
 
-###Build And Release System
+##Build And Release System
 The system for software build and release, continuous integration and continuous delivery.
 - [Jenkins](http://jenkins-ci.org)  An extendable open source continuous integration server  
 - [BuildForge](https://jazz.net/downloads/rational-build-forge)  Automate and accelerate build and release processes  
@@ -56,7 +55,7 @@ and developer-friendly build server — out of the box
 - [VisualBuild](http://www.kinook.com/VisBuildPro)  Visual Build enables developers and build masters to easily create an automated, repeatable build process  
 - [cruisecontrol](http://www.cruisecontrolnet.org)  CruiseControl.NET, an Automated Continuous Integration server, implemented using the .NET Framework  
 
-###Online Build System
+##Online Build System
 - [cloudbees](http://www.cloudbees.com) the Enterprise Jenkins Company  
 - [coveralls](https://coveralls.io)  Track your project's code coverage over time, changes to files, and badge your GitHub repo
 - [shippable](https://www.shippable.com)  Hosted continuous integration and deployment service built on docker  
@@ -73,7 +72,7 @@ and developer-friendly build server — out of the box
 - [wercker](http://wercker.com)  Test and deploy your applications with ease  
 - [coveralls](https://coveralls.io)  Track your project's code coverage over time, changes to files, and badge your GitHub repo
 
-###Infrastructure
+##Infrastructure
 The hardware,virtual machines, fram management, docker
 - [GridWiki](http://wiki.gridengine.info/wiki/index.php/Main_Page)  wiki page for Grid  
 - [UGE](http://www.univa.com)  Univa workload management solutions maximize the value of existing computing resources by efficiently sharing workloads across thousands of servers  
@@ -85,7 +84,7 @@ The hardware,virtual machines, fram management, docker
 - [docker](https://www.docker.com) Docker - An open platform for distributed applications for developers and sysadmins  
 - [amazon](http://aws.amazon.com/ec2) Scalable, pay-as-you-go compute capacity in the cloud  
 
-###Source Code Management
+##Source Code Management
 Version control and source code management tools
 - [git](http://git-scm.com)  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency  
 - [perforce](http://www.perforce.com)  Industry’s most reliable and proven platform for versioning code, images, documents... everything
@@ -97,7 +96,7 @@ Version control and source code management tools
 - [bitbuckets](https://bitbucket.org)  Plant your code in the cloud. Watch it grow.
 - [teamfoundationservice](http://tfs.visualstudio.com)  Visual Studio Online, based on the capabilities of Team Foundation Server with additional cloud services, is the online home for your development projects. Get up and running in minutes on our cloud infrastructure without having to install or configure a single server. Visual Studio Online connects to Visual Studio, Eclipse, Xcode, and other Git clients to support development for a variety of platforms and languages  
 
-###Code Review
+##Code Review
 code review tools
 - [codecollaborator](http://smartbear.com/products/software-development/code-review) Collaborator helps development, testing and management teams work together to produce high quality code  
 - [crucible](http://www.atlassian.com/software/crucible/overview)  Code reviews = quality code. Review code, discuss changes, share knowledge, and identify defects with Crucible's flexible review workflow. It's code review made easy for Subversion, CVS, Perforce, and more  
@@ -105,7 +104,7 @@ code review tools
 - [codestriker](http://codestriker.sourceforge.net)  
 - [rietveld](http://code.google.com/p/rietveld)  
 
-###Build
+##Build
 Build tools
 - [gnumake](http://www.gnu.org/software/make) GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program's source files  
 - [gnuautoconf](http://www.gnu.org/software/autoconf) Autoconf is an extensible package of M4 macros that produce shell scripts to automatically configure software source code packages  
@@ -118,7 +117,7 @@ Build tools
 - [gradle](http://www.gradle.org)   Gradle is build automation evolved. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.  
 - [ElectricCommander](http://electric-cloud.com/products/electricaccelerator)   Continuous Delivery isn’t continuous if builds and tests take too long to complete. ElectricAccelerator speeds up builds and tests by up to 20X, improving software time to market, infrastructure utilization and developer productivity  
 
-###Static Check
+##Static Check
 software static check tools
 - [static tools wiki](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) static tools compare wiki page  
 - [coverity](http://www.coverity.com/)  
@@ -128,18 +127,18 @@ software static check tools
 - [findbugs](http://findbugs.sourceforge.net)  
 - [checkstyle](http://checkstyle.sourceforge.net)  
 
-###Dynamic Check
+##Dynamic Check
 software dynamic check tools
 - [dynamic tools wiki](http://en.wikipedia.org/wiki/Dynamic_program_analysis)  
 
-###Performance Analysis
+##Performance Analysis
 - [performance tools wiki](http://en.wikipedia.org/wiki/List_of_performance_analysis_tools)  
 
-###Coverage
+##Coverage
 software testing coverage tools
 - code coverage wiki](http://en.wikipedia.org/wiki/Code_coverage)  
 
-###Testing
+##Testing
 software testing framework and tools
 - [Testingautomation](http://en.wikipedia.org/wiki/Test_automation)  
 - [softwareqatest](http://www.softwareqatest.com)  
@@ -147,38 +146,38 @@ software testing framework and tools
 - [opensourcetesting](http://www.opensourcetesting.org)  
 - [selenium](http://www.seleniumhq.org)  
 
-###Package
+##Package
 The tools for software package and installation
 - [installshield](http://www.installshield.com)  
 - [NSIS](http://nsis.sourceforge.net)  
 - [rpm](http://rpm.org)  
 - [yum](http://yum.baseurl.org)  
 
-###Deploy
+##Deploy
 The tools for web site deploy
 - [jfrog](http://www.jfrog.com)
 - [xl-deploy](http://xebialabs.com/products/xl-deploy)  
 - [Jenkinsdeployplugin]()   
 - [](https://bintray.com)  
 
-###Delivery
+##Delivery
 The tools for software delivery
 - [sl-release](http://xebialabs.com/products/xl-release)  
 - [archiva](http://archiva.apache.org/index.cgi)  
 - [nexus](http://www.sonatype.com/nexus)  
 
-###Provisioning Tools 
+##Provisioning Tools 
 - [Puppet]() Build, destroy and rebuild servers on any public or private cloud    
 - [Chef](http://www.opscode.com/chef)  Fast, scalable and flexible software for data center automation  
 - [SaltStack](http://www.saltstack.com/community) Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine  
 - [ansible](http://www.ansible.com)  
 
-###Web Server
+##Web Server
 - [apache](https://httpd.apache.org)  Apache httpd has been the most popular web server on the Internet since April 1996
 - [nginx](http://nginx.org) A high performance free open source web server powering busiest sites on the Internet  
 - [tomcat](http://tomcat.apache.org)  An open source software implementation of the Java Servlet and JavaServer Pages technologies  
 
-###OS And Shell
+##OS And Shell
 Linux shell, perl, python
 - [shell](https://github.com/itech001/awesome-shell/blob/master/README.md)  
 - [awesome-python](https://github.com/vinta/awesome-python) 
@@ -186,18 +185,18 @@ Linux shell, perl, python
 - [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
 
 
-###Useful Sites
+##Useful Sites
 Other useful pages
 - [infoq](http://www.infoq.com)  
 - [stackoverflow](http://stackoverflow.com)  
 
-###Conference And Submit
+##Conference And Submit
 - [devops submit](http://devopssummit.sys-con.com)  
 
-###Other Awesome Lists
+##Other Awesome Lists
 Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
-###Contact
+##Contact
 Contact me for more items about continuous integration and continuous delivery:  
 Email itech001@126.com  
 
