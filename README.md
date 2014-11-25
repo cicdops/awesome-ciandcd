@@ -1,6 +1,8 @@
 ciandcd
 =======
-A curated list of awesome tools for:  
+Continuous Integration and Continuous Deliver
+
+A curated list of awesome tools for：
 continuous integration  
 continuous delivery  
 software integration  
@@ -48,11 +50,11 @@ and developer-friendly build server — out of the box
 
 ###Infrastructure
 The hardware,virtual machines, fram management, docker
-- [GridWiki](http://wiki.gridengine.info/wiki/index.php/Main_Page)  
-- [UGE](http://www.univa.com)  
-- [SGE](gridscheduler.sourceforge.net)  
-- [LSF](http://www-03.ibm.com/systems/platformcomputing/products/lsf)  
-- [vmwarevshpere](http://www.vmware.com/products/vsphere)  
+- [GridWiki](http://wiki.gridengine.info/wiki/index.php/Main_Page)  wiki page for Grid  
+- [UGE](http://www.univa.com)  Univa workload management solutions maximize the value of existing computing resources by efficiently sharing workloads across thousands of servers  
+- [SGE](gridscheduler.sourceforge.net)  Grid Engine is typically used on a computer farm or high-performance computing (HPC) cluster and is responsible for accepting, scheduling, dispatching, and managing the remote and distributed execution of large numbers of standalone, parallel or interactive user jobs. It also manages and schedules the allocation of distributed resources such as processors, memory, disk space, and software licenses  
+- [LSF](http://www-03.ibm.com/systems/platformcomputing/products/lsf)  Platform Load Sharing Facility (or simply LSF) is a workload management platform, job scheduler, for distributed HPC environments. It can be used to execute batch jobs on networked Unix and Windows systems on many different architectures  
+- [vmwarevshpere](http://www.vmware.com/products/vsphere)  VMware vSphere (formerly VMware Infrastructure 4) is VMware's cloud computing virtualization operating system  
 - [ctrixserver](http://www.citrix.com/products/xenserver/overview.html)  
 - [miscrosofthyperv]()  
 - [docker](https://www.docker.com) 
