@@ -33,172 +33,170 @@ devops
 
 ## Theory
 The theory for continuous integration and continuous deliver
-- [continuousIntegration](http://martinfowler.com/articles/continuousIntegration.html)  
-- [continuousdelivery](http://continuousdelivery.com)  
-- [software integration](http://en.wikipedia.org/wiki/System_integration)  
-- [devopsdays](http://www.devopsdays.org)  
+* [continuousIntegration](http://martinfowler.com/articles/continuousIntegration.html)  
+* [continuousdelivery](http://continuousdelivery.com)  
+* [software integration](http://en.wikipedia.org/wiki/System_integration)  
+* [devopsdays](http://www.devopsdays.org)  
 
 ## Build And Release System
 The system for software build and release, continuous integration and continuous delivery.
-- [Jenkins](http://jenkins-ci.org)  An extendable open source continuous integration server  
-- [BuildForge](https://jazz.net/downloads/rational-build-forge)  Automate and accelerate build and release processes  
-- [ElectricCommander](http://www.electric-cloud.com/products/electriccommander.php)  ElectricCommander gives distributed teams shared control and visibility into infrastructure, tool chains and processes. It accelerates and automates the software delivery process to enable agility, predictability and security across many build-test-deploy pipelines  
-- [Teamcity](http://www.jetbrains.com/teamcity/index.html)  Ready to work, extensible 
-and developer-friendly build server — out of the box 
-- [bamboo](https://www.atlassian.com/software/bamboo)  Bamboo does more than just run builds and tests. It connects issues, commits, test results, and deploys so the whole picture is available to your entire product team  
-- [go](http://www.go.cd)  Automate and streamline the build-test-release cycle for worry-free, continuous delivery of your product  
-- [hudson](http://hudson-ci.org)  the previous one of Jenkins  
-- [openbuildservice](http://openbuildservice.org)  The Open Build Service (OBS) is a generic system to build and distribute binary packages from sources in an automatic, consistent and reproducible way. You can release packages as well as updates, add-ons, appliances and entire distributions for a wide range of operating systems and hardware architectures  
-- [buildbot](http://trac.buildbot.net)   Buildbot is a continuous integration system designed to automate the build/test cycle. By automatically rebuilding and testing the tree each time something has changed, build problems are pinpointed quickly, before other developers are inconvenienced by the failure  
-- [Parabuild](http://www.viewtier.com/index.htm)  Parabuild is an enterprise software build and release management system that helps software teams to release on time by providing them practically unbreakable release builds and Continuous Integration  
-- [FinalBuilder](https://www.finalbuilder.com/)  Automating your Build process is simple with FinalBuilder. With FinalBuilder you don't need to edit xml, or  write scripts. Visually define and debug your build scripts, then schedule them with windows scheduler, or integrate them with Continua CI, Jenkins or any other CI Server  
-- [VisualBuild](http://www.kinook.com/VisBuildPro)  Visual Build enables developers and build masters to easily create an automated, repeatable build process  
-- [cruisecontrol](http://www.cruisecontrolnet.org)  CruiseControl.NET, an Automated Continuous Integration server, implemented using the .NET Framework  
+* [Jenkins](http://jenkins-ci.org)  An extendable open source continuous integration server  
+* [BuildForge](https://jazz.net/downloads/rational-build-forge)  Automate and accelerate build and release processes  
+* [ElectricCommander](http://www.electric-cloud.com/products/electriccommander.php)  ElectricCommander gives distributed teams shared control and visibility into infrastructure, tool chains and processes. It accelerates and automates the software delivery process to enable agility, predictability and security across many build-test-deploy pipelines  
+* [Teamcity](http://www.jetbrains.com/teamcity/index.html)  Ready to work, extensible 
+and developer-friendly build server?—?out of the box 
+* [bamboo](https://www.atlassian.com/software/bamboo)  Bamboo does more than just run builds and tests. It connects issues, commits, test results, and deploys so the whole picture is available to your entire product team  
+* [go](http://www.go.cd)  Automate and streamline the build-test-release cycle for worry-free, continuous delivery of your product  
+* [hudson](http://hudson-ci.org)  the previous one of Jenkins  
+* [openbuildservice](http://openbuildservice.org)  The Open Build Service (OBS) is a generic system to build and distribute binary packages from sources in an automatic, consistent and reproducible way. You can release packages as well as updates, add-ons, appliances and entire distributions for a wide range of operating systems and hardware architectures  
+* [buildbot](http://trac.buildbot.net)   Buildbot is a continuous integration system designed to automate the build/test cycle. By automatically rebuilding and testing the tree each time something has changed, build problems are pinpointed quickly, before other developers are inconvenienced by the failure  
+* [Parabuild](http://www.viewtier.com/index.htm)  Parabuild is an enterprise software build and release management system that helps software teams to release on time by providing them practically unbreakable release builds and Continuous Integration  
+* [FinalBuilder](https://www.finalbuilder.com/)  Automating your Build process is simple with FinalBuilder. With FinalBuilder you don't need to edit xml, or  write scripts. Visually define and debug your build scripts, then schedule them with windows scheduler, or integrate them with Continua CI, Jenkins or any other CI Server  
+* [VisualBuild](http://www.kinook.com/VisBuildPro)  Visual Build enables developers and build masters to easily create an automated, repeatable build process  
+* [cruisecontrol](http://www.cruisecontrolnet.org)  CruiseControl.NET, an Automated Continuous Integration server, implemented using the .NET Framework  
 
 ## Online Build System
-- [cloudbees](http://www.cloudbees.com) the Enterprise Jenkins Company  
-- [coveralls](https://coveralls.io)  Track your project's code coverage over time, changes to files, and badge your GitHub repo
-- [shippable](https://www.shippable.com)  Hosted continuous integration and deployment service built on docker  
-- [circleci](https://circleci.com)  Continuous Integration for web apps.  
-- [buildbox](https://buildbox.io)  Simple self-hosted Continuous Integration
-- [drone](https://drone.io) Open source continuous integration platform built on Docker
-- [appveyor](http://www.appveyor.com)  Continuous Integration and Deployment service for busy Windows 
-- [snap-ci](https://snap-ci.com) Easy builds, deployed when you want   
-- [codeship](https://codeship.com)  Continuous Integration and Delivery made simple
-- [solanolabs](https://www.solanolabs.com)  Hosted continuous integration and deployment  
-- [githost](https://githost.io)  Painless GitLab CE & CI Hosting
-- [testling](https://ci.testling.com) Automatic browser tests on every push  
-- [magnum-ci](https://magnum-ci.com)  Hosted Continuous Integration and Delivery Platform for private repositories  
-- [wercker](http://wercker.com)  Test and deploy your applications with ease  
-- [coveralls](https://coveralls.io)  Track your project's code coverage over time, changes to files, and badge your GitHub repo
+* [cloudbees](http://www.cloudbees.com) the Enterprise Jenkins Company  
+* [coveralls](https://coveralls.io)  Track your project's code coverage over time, changes to files, and badge your GitHub repo
+* [shippable](https://www.shippable.com)  Hosted continuous integration and deployment service built on docker  
+* [circleci](https://circleci.com)  Continuous Integration for web apps.  
+* [buildbox](https://buildbox.io)  Simple self-hosted Continuous Integration
+* [drone](https://drone.io) Open source continuous integration platform built on Docker
+* [appveyor](http://www.appveyor.com)  Continuous Integration and Deployment service for busy Windows 
+* [snap-ci](https://snap-ci.com) Easy builds, deployed when you want   
+* [codeship](https://codeship.com)  Continuous Integration and Delivery made simple
+* [solanolabs](https://www.solanolabs.com)  Hosted continuous integration and deployment  
+* [githost](https://githost.io)  Painless GitLab CE & CI Hosting
+* [testling](https://ci.testling.com) Automatic browser tests on every push  
+* [magnum-ci](https://magnum-ci.com)  Hosted Continuous Integration and Delivery Platform for private repositories  
+* [wercker](http://wercker.com)  Test and deploy your applications with ease  
+* [coveralls](https://coveralls.io)  Track your project's code coverage over time, changes to files, and badge your GitHub repo
 
 ## Infrastructure
 The hardware,virtual machines, fram management, docker
-- [GridWiki](http://wiki.gridengine.info/wiki/index.php/Main_Page)  wiki page for Grid  
-- [UGE](http://www.univa.com)  Univa workload management solutions maximize the value of existing computing resources by efficiently sharing workloads across thousands of servers  
-- [SGE](gridscheduler.sourceforge.net)  Grid Engine is typically used on a computer farm or high-performance computing (HPC) cluster and is responsible for accepting, scheduling, dispatching, and managing the remote and distributed execution of large numbers of standalone, parallel or interactive user jobs. It also manages and schedules the allocation of distributed resources such as processors, memory, disk space, and software licenses  
-- [LSF](http://www-03.ibm.com/systems/platformcomputing/products/lsf)  Platform Load Sharing Facility (or simply LSF) is a workload management platform, job scheduler, for distributed HPC environments. It can be used to execute batch jobs on networked Unix and Windows systems on many different architectures  
-- [vmwarevshpere](http://www.vmware.com/products/vsphere)  VMware vSphere (formerly VMware Infrastructure 4) is VMware's cloud computing virtualization operating system  
-- [ctrixserver](http://www.citrix.com/products/xenserver/overview.html)  XenServer is the best server virtualization platform for public and private clouds, powering 4 of the 5 largest hosting provider clouds.  Built with scale, security and multi-tenancy in mind, XenServer allows for even greater flexibility and cost efficiency  
-- [miscrosofthyperv](Docker - An open platform for distributed applications for developers and sysadmins)  microsoft virtualization  
-- [docker](https://www.docker.com) Docker - An open platform for distributed applications for developers and sysadmins  
-- [amazon](http://aws.amazon.com/ec2) Scalable, pay-as-you-go compute capacity in the cloud  
+* [GridWiki](http://wiki.gridengine.info/wiki/index.php/Main_Page)  wiki page for Grid  
+* [UGE](http://www.univa.com)  Univa workload management solutions maximize the value of existing computing resources by efficiently sharing workloads across thousands of servers  
+* [SGE](gridscheduler.sourceforge.net)  Grid Engine is typically used on a computer farm or high-performance computing (HPC) cluster and is responsible for accepting, scheduling, dispatching, and managing the remote and distributed execution of large numbers of standalone, parallel or interactive user jobs. It also manages and schedules the allocation of distributed resources such as processors, memory, disk space, and software licenses  
+* [LSF](http://www-03.ibm.com/systems/platformcomputing/products/lsf)  Platform Load Sharing Facility (or simply LSF) is a workload management platform, job scheduler, for distributed HPC environments. It can be used to execute batch jobs on networked Unix and Windows systems on many different architectures  
+* [vmwarevshpere](http://www.vmware.com/products/vsphere)  VMware vSphere (formerly VMware Infrastructure 4) is VMware's cloud computing virtualization operating system  
+* [ctrixserver](http://www.citrix.com/products/xenserver/overview.html)  XenServer is the best server virtualization platform for public and private clouds, powering 4 of the 5 largest hosting provider clouds.  Built with scale, security and multi-tenancy in mind, XenServer allows for even greater flexibility and cost efficiency  
+* [miscrosofthyperv](Docker - An open platform for distributed applications for developers and sysadmins)  microsoft virtualization  
+* [docker](https://www.docker.com) Docker - An open platform for distributed applications for developers and sysadmins  
+* [amazon](http://aws.amazon.com/ec2) Scalable, pay-as-you-go compute capacity in the cloud  
 
 ## Source Code Management
 Version control and source code management tools
-- [git](http://git-scm.com)  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency  
-- [perforce](http://www.perforce.com)  Industry’s most reliable and proven platform for versioning code, images, documents... everything
-- [clearcase](http://www-03.ibm.com/software/products/en/clearcase)  IBM Rational ClearCase is a software configuration management solution that provides version control, workspace management, parallel development support, and build auditing  
-- [mercurial](http://mercurial.selenic.com)  Mercurial is a free, distributed source control management tool. It efficiently handles projects of any size and offers an easy and intuitive interface  
-- [svn](http://subversion.apache.org)  Subversion is an open source version control system  
-- [gitlab](https://www.gitlab.com)  Open source self-hosted Git management software  
-- [github](https://github.com)  Powerful collaboration, review, and code management for open source and private development projects.
-- [bitbuckets](https://bitbucket.org)  Plant your code in the cloud. Watch it grow.
-- [teamfoundationservice](http://tfs.visualstudio.com)  Visual Studio Online, based on the capabilities of Team Foundation Server with additional cloud services, is the online home for your development projects. Get up and running in minutes on our cloud infrastructure without having to install or configure a single server. Visual Studio Online connects to Visual Studio, Eclipse, Xcode, and other Git clients to support development for a variety of platforms and languages  
+* [git](http://git-scm.com)  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency  
+* [perforce](http://www.perforce.com)  Industry’s most reliable and proven platform for versioning code, images, documents... everything
+* [clearcase](http://www-03.ibm.com/software/products/en/clearcase)  IBM Rational ClearCase is a software configuration management solution that provides version control, workspace management, parallel development support, and build auditing  
+* [mercurial](http://mercurial.selenic.com)  Mercurial is a free, distributed source control management tool. It efficiently handles projects of any size and offers an easy and intuitive interface  
+* [svn](http://subversion.apache.org)  Subversion is an open source version control system  
+* [gitlab](https://www.gitlab.com)  Open source self-hosted Git management software  
+* [github](https://github.com)  Powerful collaboration, review, and code management for open source and private development projects.
+* [bitbuckets](https://bitbucket.org)  Plant your code in the cloud. Watch it grow.
+* [teamfoundationservice](http://tfs.visualstudio.com)  Visual Studio Online, based on the capabilities of Team Foundation Server with additional cloud services, is the online home for your development projects. Get up and running in minutes on our cloud infrastructure without having to install or configure a single server. Visual Studio Online connects to Visual Studio, Eclipse, Xcode, and other Git clients to support development for a variety of platforms and languages  
 
 ## Code Review
 code review tools
-- [codecollaborator](http://smartbear.com/products/software-development/code-review) Collaborator helps development, testing and management teams work together to produce high quality code  
-- [crucible](http://www.atlassian.com/software/crucible/overview)  Code reviews = quality code. Review code, discuss changes, share knowledge, and identify defects with Crucible's flexible review workflow. It's code review made easy for Subversion, CVS, Perforce, and more  
-- [reviewboard](http://www.reviewboard.org)  Review Board takes the pain out of code review, saving you time, money, and sanity so you can focus on making great software  
-- [codestriker](http://codestriker.sourceforge.net)  
-- [rietveld](http://code.google.com/p/rietveld)  
+* [codecollaborator](http://smartbear.com/products/software-development/code-review) Collaborator helps development, testing and management teams work together to produce high quality code  
+* [crucible](http://www.atlassian.com/software/crucible/overview)  Code reviews = quality code. Review code, discuss changes, share knowledge, and identify defects with Crucible's flexible review workflow. It's code review made easy for Subversion, CVS, Perforce, and more  
+* [reviewboard](http://www.reviewboard.org)  Review Board takes the pain out of code review, saving you time, money, and sanity so you can focus on making great software  
+* [codestriker](http://codestriker.sourceforge.net)  
+* [rietveld](http://code.google.com/p/rietveld)  
 
 ## Build
 Build tools
-- [gnumake](http://www.gnu.org/software/make) GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program's source files  
-- [gnuautoconf](http://www.gnu.org/software/autoconf) Autoconf is an extensible package of M4 macros that produce shell scripts to automatically configure software source code packages  
-- [mozillabuildtools](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions)  The Mozilla build system, like the rest of the Mozilla codebase, is cross-platform. It uses traditional Unix-style autoconf and make tools to build the various applications (even on non-unix operating systems)
-- [scons](http://www.scons.org)  SCons is an Open Source software construction tool—that is, a next-generation build tool. Think of SCons as an improved, cross-platform substitute for the classic Make utility with integrated functionality similar to autoconf/automake and compiler caches such as ccache. In short, SCons is an easier, more reliable and faster way to build software  
-- [cmake](http://www.cmake.org)  cmake offers robust, cross-platform software development solutions. Find out how we can help your team efficiently manage the build, test, and package process for your software project  
-- [msbuild](http://msdn.microsoft.com/en-us/library/dd393574.aspx)  The Microsoft Build Engine is a platform for building applications. This engine, which is also known as MSBuild, provides an XML schema for a project file that controls how the build platform processes and builds software. Visual Studio uses MSBuild, but it doesn't depend on Visual Studio. By invoking msbuild.exe on your project or solution file, you can orchestrate and build products in environments where Visual Studio isn't installed  
-- [ant](http://ant.apache.org)  Ant can be used to pilot any type of process which can be described in terms of targets and tasks. The main known usage of Ant is the build of Java applications.  
-- [maven](http://maven.apache.org)  Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.  
-- [gradle](http://www.gradle.org)   Gradle is build automation evolved. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.  
-- [ElectricCommander](http://electric-cloud.com/products/electricaccelerator)   Continuous Delivery isn’t continuous if builds and tests take too long to complete. ElectricAccelerator speeds up builds and tests by up to 20X, improving software time to market, infrastructure utilization and developer productivity  
+* [gnumake](http://www.gnu.org/software/make) GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program's source files  
+* [gnuautoconf](http://www.gnu.org/software/autoconf) Autoconf is an extensible package of M4 macros that produce shell scripts to automatically configure software source code packages  
+* [mozillabuildtools](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions)  The Mozilla build system, like the rest of the Mozilla codebase, is cross-platform. It uses traditional Unix-style autoconf and make tools to build the various applications (even on non-unix operating systems)
+* [scons](http://www.scons.org)  SCons is an Open Source software construction tool—that is, a next-generation build tool. Think of SCons as an improved, cross-platform substitute for the classic Make utility with integrated functionality similar to autoconf/automake and compiler caches such as ccache. In short, SCons is an easier, more reliable and faster way to build software  
+* [cmake](http://www.cmake.org)  cmake offers robust, cross-platform software development solutions. Find out how we can help your team efficiently manage the build, test, and package process for your software project  
+* [msbuild](http://msdn.microsoft.com/en-us/library/dd393574.aspx)  The Microsoft Build Engine is a platform for building applications. This engine, which is also known as MSBuild, provides an XML schema for a project file that controls how the build platform processes and builds software. Visual Studio uses MSBuild, but it doesn't depend on Visual Studio. By invoking msbuild.exe on your project or solution file, you can orchestrate and build products in environments where Visual Studio isn't installed  
+* [ant](http://ant.apache.org)  Ant can be used to pilot any type of process which can be described in terms of targets and tasks. The main known usage of Ant is the build of Java applications.  
+* [maven](http://maven.apache.org)  Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.  
+* [gradle](http://www.gradle.org)   Gradle is build automation evolved. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.  
+* [ElectricCommander](http://electric-cloud.com/products/electricaccelerator)   Continuous Delivery isn’t continuous if builds and tests take too long to complete. ElectricAccelerator speeds up builds and tests by up to 20X, improving software time to market, infrastructure utilization and developer productivity  
 
 ## Static Check
 software static check tools
-- [static tools wiki](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) static tools compare wiki page  
-- [coverity](http://www.coverity.com/)  
-- [fxcop](http://msdn.microsoft.com/en-us/library/bb429476%28VS.80%29.aspx)  
-- [cpd](http://pmd.sourceforge.net/pmd-4.3.0/cpd.html) 
-- [sonar](http://www.sonarqube.org)  
-- [findbugs](http://findbugs.sourceforge.net)  
-- [checkstyle](http://checkstyle.sourceforge.net)  
+* [static tools wiki](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) static tools compare wiki page  
+* [coverity](http://www.coverity.com/)  
+* [fxcop](http://msdn.microsoft.com/en-us/library/bb429476%28VS.80%29.aspx)  
+* [cpd](http://pmd.sourceforge.net/pmd-4.3.0/cpd.html) 
+* [sonar](http://www.sonarqube.org)  
+* [findbugs](http://findbugs.sourceforge.net)  
+* [checkstyle](http://checkstyle.sourceforge.net)  
 
 ## Dynamic Check
 software dynamic check tools
-- [dynamic tools wiki](http://en.wikipedia.org/wiki/Dynamic_program_analysis)  
+* [dynamic tools wiki](http://en.wikipedia.org/wiki/Dynamic_program_analysis)  
 
 ## Performance Analysis
-- [performance tools wiki](http://en.wikipedia.org/wiki/List_of_performance_analysis_tools)  
+* [performance tools wiki](http://en.wikipedia.org/wiki/List_of_performance_analysis_tools)  
 
 ## Coverage
 software testing coverage tools
-- code coverage wiki](http://en.wikipedia.org/wiki/Code_coverage)  
+* code coverage wiki](http://en.wikipedia.org/wiki/Code_coverage)  
 
 ## Testing
 software testing framework and tools
-- [Testingautomation](http://en.wikipedia.org/wiki/Test_automation)  
-- [softwareqatest](http://www.softwareqatest.com)  
-- [qaforums](http://www.qaforums.com)  
-- [opensourcetesting](http://www.opensourcetesting.org)  
-- [selenium](http://www.seleniumhq.org)  
+* [Testingautomation](http://en.wikipedia.org/wiki/Test_automation)  
+* [softwareqatest](http://www.softwareqatest.com)  
+* [qaforums](http://www.qaforums.com)  
+* [opensourcetesting](http://www.opensourcetesting.org)  
+* [selenium](http://www.seleniumhq.org)  
 
 ## Package
 The tools for software package and installation
-- [installshield](http://www.installshield.com)  
-- [NSIS](http://nsis.sourceforge.net)  
-- [rpm](http://rpm.org)  
-- [yum](http://yum.baseurl.org)  
+* [installshield](http://www.installshield.com)  
+* [NSIS](http://nsis.sourceforge.net)  
+* [rpm](http://rpm.org)  
+* [yum](http://yum.baseurl.org)  
 
 ## Deploy
 The tools for web site deploy
-- [jfrog](http://www.jfrog.com)
-- [xl-deploy](http://xebialabs.com/products/xl-deploy)  
-- [Jenkinsdeployplugin]()   
-- [](https://bintray.com)  
+* [jfrog](http://www.jfrog.com)
+* [xl-deploy](http://xebialabs.com/products/xl-deploy)  
+* [Jenkinsdeployplugin]()   
+* [](https://bintray.com)  
 
 ## Delivery
 The tools for software delivery
-- [sl-release](http://xebialabs.com/products/xl-release)  
-- [archiva](http://archiva.apache.org/index.cgi)  
-- [nexus](http://www.sonatype.com/nexus)  
+* [sl-release](http://xebialabs.com/products/xl-release)  
+* [archiva](http://archiva.apache.org/index.cgi)  
+* [nexus](http://www.sonatype.com/nexus)  
 
 ## Provisioning Tools 
-- [Puppet]() Build, destroy and rebuild servers on any public or private cloud    
-- [Chef](http://www.opscode.com/chef)  Fast, scalable and flexible software for data center automation  
-- [SaltStack](http://www.saltstack.com/community) Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine  
-- [ansible](http://www.ansible.com)  
+* [Puppet]() Build, destroy and rebuild servers on any public or private cloud    
+* [Chef](http://www.opscode.com/chef)  Fast, scalable and flexible software for data center automation  
+* [SaltStack](http://www.saltstack.com/community) Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine  
+* [ansible](http://www.ansible.com)  
 
 ## Web Server
-- [apache](https://httpd.apache.org)  Apache httpd has been the most popular web server on the Internet since April 1996
-- [nginx](http://nginx.org) A high performance free open source web server powering busiest sites on the Internet  
-- [tomcat](http://tomcat.apache.org)  An open source software implementation of the Java Servlet and JavaServer Pages technologies  
+* [apache](https://httpd.apache.org)  Apache httpd has been the most popular web server on the Internet since April 1996
+* [nginx](http://nginx.org) A high performance free open source web server powering busiest sites on the Internet  
+* [tomcat](http://tomcat.apache.org)  An open source software implementation of the Java Servlet and JavaServer Pages technologies  
 
 ## OS And Shell
 Linux shell, perl, python
-- [shell](https://github.com/itech001/awesome-shell/blob/master/README.md)  
-- [awesome-python](https://github.com/vinta/awesome-python) 
-- [awesome-perl](https://github.com/mackee/awesome-perl)
-- [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+* [shell](https://github.com/itech001/awesome-shell/blob/master/README.md)  
+* [awesome-python](https://github.com/vinta/awesome-python) 
+* [awesome-perl](https://github.com/mackee/awesome-perl)
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
 
 ## Useful Sites
 Other useful pages
-- [infoq](http://www.infoq.com)  
-- [stackoverflow](http://stackoverflow.com)  
+* [infoq](http://www.infoq.com)  
+* [stackoverflow](http://stackoverflow.com)  
 
 ## Conference And Submit
-- [devops submit](http://devopssummit.sys-con.com)  
+* [devops submit](http://devopssummit.sys-con.com)  
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
 ## Contact
-Contact me for more items about continuous integration and continuous delivery:  
+>Contact me for more items about continuous integration and continuous delivery:  
 Email itech001@126.com  
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
-  
-  
