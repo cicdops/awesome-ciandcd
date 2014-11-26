@@ -176,6 +176,8 @@ The tools for software delivery
 * [apache](https://httpd.apache.org)  Apache httpd has been the most popular web server on the Internet since April 1996
 * [nginx](http://nginx.org) A high performance free open source web server powering busiest sites on the Internet  
 * [tomcat](http://tomcat.apache.org)  An open source software implementation of the Java Servlet and JavaServer Pages technologies  
+* [jetty](http://www.eclipse.org/jetty) 
+Jetty provides a Web server and javax.servlet container, plus support for SPDY, WebSocket, OSGi, JMX, JNDI, JAAS and many other integrations  
 
 ## OS And Shell
 Linux shell, perl, python
