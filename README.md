@@ -25,7 +25,7 @@ devops
   - [Delivery](#delivery)
   - [Provisioning Tools](#provisioning-tools)
   - [Web Server](#web-server)
-  - [OS And Shell](#oS-and-shell)
+  - [OS And Shell](#os-and-shell)
   - [Useful Sites](#useful-sites)
   - [Conference And Submit](#conference-and-submit)
   - [Other Awesome Lists](#other-awesome-lists)
