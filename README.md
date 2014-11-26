@@ -54,6 +54,7 @@ and developer-friendly build server?—?out of the box
 * [FinalBuilder](https://www.finalbuilder.com/)  Automating your Build process is simple with FinalBuilder. With FinalBuilder you don't need to edit xml, or  write scripts. Visually define and debug your build scripts, then schedule them with windows scheduler, or integrate them with Continua CI, Jenkins or any other CI Server  
 * [VisualBuild](http://www.kinook.com/VisBuildPro)  Visual Build enables developers and build masters to easily create an automated, repeatable build process  
 * [cruisecontrol](http://www.cruisecontrolnet.org)  CruiseControl.NET, an Automated Continuous Integration server, implemented using the .NET Framework  
+* [continuum](http://continuum.apache.org/) Apache Continuum™ is an enterprise-ready continuous integration server with features such as automated builds, release management, role-based security, and integration with popular build tools and source control management systems 
 
 ## Online Build System
 * [cloudbees](http://www.cloudbees.com) the Enterprise Jenkins Company  
@@ -139,31 +140,31 @@ software testing coverage tools
 
 ## Testing
 software testing framework and tools
-* [Testingautomation](http://en.wikipedia.org/wiki/Test_automation)  
-* [softwareqatest](http://www.softwareqatest.com)  
-* [qaforums](http://www.qaforums.com)  
-* [opensourcetesting](http://www.opensourcetesting.org)  
-* [selenium](http://www.seleniumhq.org)  
+* [Testingautomation](http://en.wikipedia.org/wiki/Test_automation)  test automation wiki page
+* [softwareqatest](http://www.softwareqatest.com) FAQ page
+* [qaforums](http://www.qaforums.com)  SQA Forums
+* [opensourcetesting](http://www.opensourcetesting.org)  open source software testing tools, news and disccussions
+* [selenium](http://www.seleniumhq.org)  Selenium automates browsers
 
 ## Package
 The tools for software package and installation
-* [installshield](http://www.installshield.com)  
-* [NSIS](http://nsis.sourceforge.net)  
-* [rpm](http://rpm.org)  
-* [yum](http://yum.baseurl.org)  
+* [installshield](http://www.installshield.com)  World's #1 Software Installation Solution-Build Reliable MSI Installers for Windows Applications
+* [NSIS](http://nsis.sourceforge.net)  NSIS (Nullsoft Scriptable Install System) is a professional open source system to create Windows installers. It is designed to be as small and flexible as possible and is therefore very suitable for internet distribution
+* [rpm](http://rpm.org)  The RPM Package Manager (RPM) is a powerful command line driven package management system capable of installing, uninstalling, verifying, querying, and updating computer software packages
+* [yum](http://yum.baseurl.org)  Yum is an automatic updater and package installer/remover for rpm systems
 
 ## Deploy
 The tools for web site deploy
-* [jfrog](http://www.jfrog.com)
-* [xl-deploy](http://xebialabs.com/products/xl-deploy)  
-* [Jenkinsdeployplugin]()   
-* [](https://bintray.com)  
+* [jfrog](http://www.jfrog.com) s the first Binary Repository Management solution, Artifactory has changed the way binaries are controlled, stored and managed throughout the software release cycle
+* [xl-deploy](http://xebialabs.com/products/xl-deploy)  Agentless, Model-based App Deployment
+* [Jenkinsdeployplugin](https://wiki.jenkins-ci.org/display/JENKINS/Deploy%20Plugin)   deploy to tomcat  
+* [bintray](https://bintray.com)  The fastest and most reliable way to automate the distribution of your software releases
 
 ## Delivery
 The tools for software delivery
-* [sl-release](http://xebialabs.com/products/xl-release)  
-* [archiva](http://archiva.apache.org/index.cgi)  
-* [nexus](http://www.sonatype.com/nexus)  
+* [sl-release](http://xebialabs.com/products/xl-release)  Orchestrate your Continuous Delivery pipelines. Simple. Flexible. End-to-End
+* [archiva](http://archiva.apache.org/index.cgi)  Apache Archiva™ is an extensible repository management software that helps taking care of your own personal or enterprise-wide build artifact repository. It is the perfect companion for build tools such as Maven, Continuum, and ANT
+* [nexus](http://www.sonatype.com/nexus)  The use of repository managers (also known as component managers) is helping software development teams achieve simple gains in speed, efficiency, and quality of their operations
 
 ## Provisioning Tools 
 * [Puppet]() Build, destroy and rebuild servers on any public or private cloud    
@@ -178,7 +179,7 @@ The tools for software delivery
 
 ## OS And Shell
 Linux shell, perl, python
-* [shell](https://github.com/itech001/awesome-shell/blob/master/README.md)  
+* [awesome-shell](https://github.com/itech001/awesome-shell/blob/master/README.md)  
 * [awesome-python](https://github.com/vinta/awesome-python) 
 * [awesome-perl](https://github.com/mackee/awesome-perl)
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
