@@ -83,7 +83,6 @@ The hardware,virtual machines, fram management, docker
 * [vmwarevshpere](http://www.vmware.com/products/vsphere)  VMware vSphere (formerly VMware Infrastructure 4) is VMware's cloud computing virtualization operating system  
 * [ctrixserver](http://www.citrix.com/products/xenserver/overview.html)  XenServer is the best server virtualization platform for public and private clouds, powering 4 of the 5 largest hosting provider clouds.  Built with scale, security and multi-tenancy in mind, XenServer allows for even greater flexibility and cost efficiency  
 * [miscrosofthyperv](Docker - An open platform for distributed applications for developers and sysadmins)  microsoft virtualization  
-* [docker](https://www.docker.com) Docker - An open platform for distributed applications for developers and sysadmins  
 * [amazon](http://aws.amazon.com/ec2) Scalable, pay-as-you-go compute capacity in the cloud  
 
 ## Source Code Management
@@ -186,6 +185,11 @@ Linux shell, perl, python
 * [awesome-python](https://github.com/vinta/awesome-python) 
 * [awesome-perl](https://github.com/mackee/awesome-perl)
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+
+## Applications And Container
+VM application and container
+* [docker](https://www.docker.com) Docker - An open platform for distributed applications for developers and sysadmins  
+* [suseapplication](https://www.suse.com/products/susestudio) tools to create suse applications
 
 ## Database Version Control
 * [liquibase](http://www.liquibase.org) source control for your database 
