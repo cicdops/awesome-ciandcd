@@ -60,6 +60,7 @@ and developer-friendly build server?—?out of the box
 
 ## Online Build System
 * [cloudbees](http://www.cloudbees.com) the Enterprise Jenkins Company  
+* [elasticbox](https://elasticbox.com)  A DevOps approach that focuses on reusable application components as a service, and enables operations to provide IT as a Service
 * [coveralls](https://coveralls.io)  Track your project's code coverage over time, changes to files, and badge your GitHub repo
 * [shippable](https://www.shippable.com)  Hosted continuous integration and deployment service built on docker  
 * [circleci](https://circleci.com)  Continuous Integration for web apps.  
