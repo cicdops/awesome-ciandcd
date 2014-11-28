@@ -45,21 +45,11 @@
 <div id="masthead">  
   <div class="container">
       <div class="row">
-        <div class="col-md-7">
-          <h1>Continuous Integration and Continuous Delivery
-          </h1>
-        </div>
-        <div class="col-md-5">
             <div class="well well-lg"> 
               <div class="row">
-                <div class="col-sm-6">
         	      	<img src="//placehold.it/180x100" class="img-responsive">
-                </div>
-                <div class="col-sm-6">
-                </div>
               </div>
             </div>
-        </div>
       </div> 
   </div><!--/container-->
 </div><!--/masthead-->
@@ -67,17 +57,13 @@
 <!--main-->
 <div class="container">
 	<div class="row">
-
         CIANDCD_BODY
-
   	</div><!--/row-->
 </div><!--/container-->
 
-
-
-	<!-- script references -->
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
-		<script src="js/scripts.js"></script>
-	</body>
+<!-- script references -->
+<script src="js/jquery-2.1.1.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/scripts.js"></script>
+</body>
 </html>

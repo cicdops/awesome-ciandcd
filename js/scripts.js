@@ -23,7 +23,7 @@ $('a[href*=#]:not([href=#])').click(function() {
       if (target.length) {
         $('html,body').animate({
           scrollTop: target.offset().top - 50
-        }, 1000);
+        }, 10);
         return false;
       }
     }

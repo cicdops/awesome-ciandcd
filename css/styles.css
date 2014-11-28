@@ -14,11 +14,11 @@ body {
 }
 
 #masthead { 
- min-height:250px;
+ min-height:50px;
 }
 
 #masthead h1 {
- font-size: 30px;
+ font-size: 20px;
  line-height: 1;
  padding-top:20px;
 }
@@ -57,6 +57,7 @@ body {
 }
 
 #sidebar li.active {
+  background-color: #eee;
   border:0 #eee solid;
   border-right-width:5px;
 }
