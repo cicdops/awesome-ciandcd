@@ -41,12 +41,12 @@ The theory for continuous integration and continuous deliver
 * [devopsdays](http://www.devopsdays.org)  
 
 ## Build And Release System
-The system for software build and release, continuous integration and continuous delivery.
+The system for software build and release, continuous integration and continuous delivery
 * [Jenkins](http://jenkins-ci.org)  An extendable open source continuous integration server  
 * [BuildForge](https://jazz.net/downloads/rational-build-forge)  Automate and accelerate build and release processes  
 * [ElectricCommander](http://www.electric-cloud.com/products/electriccommander.php)  ElectricCommander gives distributed teams shared control and visibility into infrastructure, tool chains and processes. It accelerates and automates the software delivery process to enable agility, predictability and security across many build-test-deploy pipelines  
 * [Teamcity](http://www.jetbrains.com/teamcity/index.html)  Ready to work, extensible 
-and developer-friendly build server?—?out of the box 
+and developer-friendly build server out of the box 
 * [bamboo](https://www.atlassian.com/software/bamboo)  Bamboo does more than just run builds and tests. It connects issues, commits, test results, and deploys so the whole picture is available to your entire product team  
 * [go](http://www.go.cd)  Automate and streamline the build-test-release cycle for worry-free, continuous delivery of your product  
 * [hudson](http://hudson-ci.org)  the previous one of Jenkins  
@@ -59,6 +59,7 @@ and developer-friendly build server?—?out of the box
 * [continuum](http://continuum.apache.org/) Apache Continuum™ is an enterprise-ready continuous integration server with features such as automated builds, release management, role-based security, and integration with popular build tools and source control management systems 
 
 ## Online Build System
+Online build release system
 * [cloudbees](http://www.cloudbees.com) the Enterprise Jenkins Company  
 * [elasticbox](https://elasticbox.com)  A DevOps approach that focuses on reusable application components as a service, and enables operations to provide IT as a Service
 * [coveralls](https://coveralls.io)  Track your project's code coverage over time, changes to files, and badge your GitHub repo
@@ -134,6 +135,7 @@ software dynamic check tools
 * [dynamic tools wiki](http://en.wikipedia.org/wiki/Dynamic_program_analysis)  wiki page
 
 ## Performance Analysis
+software performance analysis tools
 * [performance tools wiki](http://en.wikipedia.org/wiki/List_of_performance_analysis_tools)  wiki page
 
 ## Coverage
@@ -169,12 +171,14 @@ The tools for software delivery
 * [nexus](http://www.sonatype.com/nexus)  The use of repository managers (also known as component managers) is helping software development teams achieve simple gains in speed, efficiency, and quality of their operations
 
 ## Provisioning Tools 
+provision tools
 * [Puppet]() Build, destroy and rebuild servers on any public or private cloud    
 * [Chef](http://www.opscode.com/chef)  Fast, scalable and flexible software for data center automation  
 * [SaltStack](http://www.saltstack.com/community) Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine  
 * [ansible](http://www.ansible.com)  
 
 ## Web Server
+common used web server
 * [apache](https://httpd.apache.org)  Apache httpd has been the most popular web server on the Internet since April 1996
 * [nginx](http://nginx.org) A high performance free open source web server powering busiest sites on the Internet  
 * [tomcat](http://tomcat.apache.org)  An open source software implementation of the Java Servlet and JavaServer Pages technologies  
@@ -194,6 +198,7 @@ VM application and container
 * [suseapplication](https://www.suse.com/products/susestudio) tools to create suse applications
 
 ## Database Version Control
+database version control system
 * [liquibase](http://www.liquibase.org) source control for your database 
 * [flywaydb](http://flywaydb.org) Database Migrations Made Easy  
 * [nextep](http://www.nextep-softwares.com) NeXtep Softwares provides software solutions for the industrialization of your database developments and deployments. Our goal is to increase the productivity of your development teams by taking control of your developments' lifecycle and by automating your deployment and test processes
@@ -211,7 +216,5 @@ Other useful pages
 Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
 ## Contact
->Contact me for more items about continuous integration and continuous delivery:  
+Contact me for more items about continuous integration and continuous delivery:  
 Email itech001@126.com  
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
