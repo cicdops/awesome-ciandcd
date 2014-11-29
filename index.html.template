@@ -51,14 +51,15 @@
   	</div><!--/row-->
 </div><!--/container-->
 
-<div class="container" id="myfooter">
+<div class="container-fluid" id="myfooter">
+	<div>
 	<div class="row">
-		<div class='col-md-4' id='rightCol'></div>
+		<div class='col-md-5' id='rightCol'></div>
 		<div class='col-md-4' id='rightCol'>
 		Created by itech001@126.com
 	  </div>
-		<!--<img src="//placehold.it/900x100" class="img-responsive">-->
 	</div>
+  </div>
 </div><!--/container-->
 
 <!-- script references -->

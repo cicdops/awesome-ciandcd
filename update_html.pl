@@ -7,8 +7,8 @@ use Data::Dumper; # Perl core module
 # get md file
 my $giturl = "https://github.com/itech001/ciandcd.git";
 my $ret = 0;
-$ret = system("rm -rf ciandcd");
-$ret = system("git clone $giturl");
+#$ret = system("rm -rf ciandcd");
+#$ret = system("git clone $giturl");
 if($ret){
   print "Error:failed for git clone\n";
   exit 1;
@@ -65,7 +65,7 @@ for my $s (@$res){
   my $id = $s->{id};
   my $des = $s->{desc};
   #$right .= "<h2 id='$id'>$name</h2><ul>";
-  $right .= "<h3 id='$id'>$name</h3><ul>$des";
+  $right .= "<h3 id='$id'>$name</h3><div class='bs-callout bs-callout-info'><ul>$des";
   my $items = $s->{items};
   for my $i (@$items){
     my $n = $i->{name};
@@ -73,7 +73,7 @@ for my $s (@$res){
     my $d = $i->{detail};
     $right .= "<li><a href=$u>$n</a>&nbsp&nbsp$d</li>";
   }
-  $right .= "</ul>";
+  $right .= "</ul></div>";
 }
 $right .= "</div>";
 

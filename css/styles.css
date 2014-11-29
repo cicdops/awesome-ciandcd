@@ -30,6 +30,7 @@ body {
 }
 
 #myfooter {
+  margin-top:10px;
   min-height:70px;
   color: #563d7c;
   background-color: #eee;
@@ -51,4 +52,26 @@ body {
   border-right-width:5px;
   padding-left:0px;
   padding-right:0px;
+}
+
+.bs-callout {
+  padding: 5px;
+  margin: 5px 0;
+  border: 1px solid #eee;
+  border-left-width: 2px;
+  border-radius: 3px;
+}
+.bs-callout-info {
+  border-left-color: #563d7c;
+}
+
+.bs-callout ul{
+  padding-left:30px;
+  padding-right:8px;
+  padding-top:8px;
+  padding-bottom:8px;
+}
+
+body{
+  font-size: 16px;
 }
