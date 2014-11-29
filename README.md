@@ -101,7 +101,7 @@ Version control and source code management tools
 * [teamfoundationservice](http://tfs.visualstudio.com)  Visual Studio Online, based on the capabilities of Team Foundation Server with additional cloud services, is the online home for your development projects. Get up and running in minutes on our cloud infrastructure without having to install or configure a single server. Visual Studio Online connects to Visual Studio, Eclipse, Xcode, and other Git clients to support development for a variety of platforms and languages  
 
 ## Code Review
-code review tools
+Code review tools
 * [codecollaborator](http://smartbear.com/products/software-development/code-review) Collaborator helps development, testing and management teams work together to produce high quality code  
 * [crucible](http://www.atlassian.com/software/crucible/overview)  Code reviews = quality code. Review code, discuss changes, share knowledge, and identify defects with Crucible's flexible review workflow. It's code review made easy for Subversion, CVS, Perforce, and more  
 * [reviewboard](http://www.reviewboard.org)  Review Board takes the pain out of code review, saving you time, money, and sanity so you can focus on making great software  
@@ -121,7 +121,7 @@ Build tools
 * [ElectricacCelerator](http://electric-cloud.com/products/electricaccelerator)   Continuous Delivery isn’t continuous if builds and tests take too long to complete. ElectricAccelerator speeds up builds and tests by up to 20X, improving software time to market, infrastructure utilization and developer productivity  
 
 ## Static Check
-software static check tools
+Software static check tools
 * [static tools wiki](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) wiki page  
 * [coverity](http://www.coverity.com/)  Continually measure and improve code quality and security across your development organization  
 * [fxcop](http://msdn.microsoft.com/en-us/library/bb429476%28VS.80%29.aspx)  FxCop is an application that analyzes managed code assemblies (code that targets the .NET Framework common language runtime) and reports information about the assemblies, such as possible design, localization, performance, and security improvements  
@@ -131,19 +131,19 @@ software static check tools
 * [checkstyle](http://checkstyle.sourceforge.net)  Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard  
 
 ## Dynamic Check
-software dynamic check tools
+Software dynamic check tools
 * [dynamic tools wiki](http://en.wikipedia.org/wiki/Dynamic_program_analysis)  wiki page
 
 ## Performance Analysis
-software performance analysis tools
+Software performance analysis tools
 * [performance tools wiki](http://en.wikipedia.org/wiki/List_of_performance_analysis_tools)  wiki page
 
 ## Coverage
-software testing coverage tools
+Software testing coverage tools
 * [code coverage wiki](http://en.wikipedia.org/wiki/Code_coverage)  wiki page
 
 ## Testing
-software testing framework and tools
+Software testing framework and tools
 * [Testingautomation](http://en.wikipedia.org/wiki/Test_automation)  test automation wiki page
 * [softwareqatest](http://www.softwareqatest.com) FAQ page
 * [qaforums](http://www.qaforums.com)  SQA Forums
@@ -171,14 +171,14 @@ The tools for software delivery
 * [nexus](http://www.sonatype.com/nexus)  The use of repository managers (also known as component managers) is helping software development teams achieve simple gains in speed, efficiency, and quality of their operations
 
 ## Provisioning Tools 
-provision tools
+Provision tools
 * [Puppet]() Build, destroy and rebuild servers on any public or private cloud    
 * [Chef](http://www.opscode.com/chef)  Fast, scalable and flexible software for data center automation  
 * [SaltStack](http://www.saltstack.com/community) Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine  
 * [ansible](http://www.ansible.com)  
 
 ## Web Server
-common used web server
+Common used web server
 * [apache](https://httpd.apache.org)  Apache httpd has been the most popular web server on the Internet since April 1996
 * [nginx](http://nginx.org) A high performance free open source web server powering busiest sites on the Internet  
 * [tomcat](http://tomcat.apache.org)  An open source software implementation of the Java Servlet and JavaServer Pages technologies  
@@ -198,7 +198,7 @@ VM application and container
 * [suseapplication](https://www.suse.com/products/susestudio) tools to create suse applications
 
 ## Database Version Control
-database version control system
+Database version control system
 * [liquibase](http://www.liquibase.org) source control for your database 
 * [flywaydb](http://flywaydb.org) Database Migrations Made Easy  
 * [nextep](http://www.nextep-softwares.com) NeXtep Softwares provides software solutions for the industrialization of your database developments and deployments. Our goal is to increase the productivity of your development teams by taking control of your developments' lifecycle and by automating your deployment and test processes
@@ -210,6 +210,7 @@ Other useful pages
 * [stackoverflow](http://stackoverflow.com)  
 
 ## Conference And Submit
+Conference and submit 
 * [devops submit](http://devopssummit.sys-con.com)  
 
 ## Other Awesome Lists
