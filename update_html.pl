@@ -7,8 +7,8 @@ use Data::Dumper; # Perl core module
 # get md file
 my $giturl = "https://github.com/itech001/ciandcd.git";
 my $ret = 0;
-$ret = system("rm -rf ciandcd");
-$ret = system("git clone $giturl");
+#$ret = system("rm -rf ciandcd");
+#$ret = system("git clone $giturl");
 if($ret){
   print "Error:failed for git clone\n";
   exit 1;
@@ -27,7 +27,7 @@ while (my $line = <FILE>){
   if($line =~ /^##(.*)$/){
     $section = {};
     $section->{name} = $1;
-    push @$res, $section; 
+    push @$res, $section;
     $items = [];
     $section->{items} = $items;
   }elsif($line =~ /^([^#\*].*)$/){
@@ -39,15 +39,16 @@ while (my $line = <FILE>){
     $item->{detail} = $3;
     push(@$items, $item);
   }else{
-  } 
-} 
+  }
+}
 
 #print Dumper($res);
 
 # left html
 my $left = <<EOU;
-      <div class="col-md-3" id="leftCol">
-        <ul class="nav nav-stacked" id="sidebar">
+      <div class="col-md-3 " id="leftCol">
+        <div class="bs-docs-sidebar">
+        <ul class="nav bs-docs-sidenav" id="sidebar">
 EOU
 for my $s (@$res){
   my $n = $s->{name};
@@ -55,16 +56,16 @@ for my $s (@$res){
   $s->{id} = $id;
   $left .= "<li><a href='#$id'>$n</a></li>";
 }
-$left .= "</div>";
+$left .= "</ul></div></div>";
 
 # right html
-my $right = "<div class='col-md-9'>";
+my $right = "<div class='col-md-9' id='rightCol'>";
 for my $s (@$res){
   my $name = $s->{name};
   my $id = $s->{id};
   my $des = $s->{desc};
-  $right .= "<h2 id='$id'>$name</h2><ul>";
-  $right .= "<code>$des</code>";
+  #$right .= "<h2 id='$id'>$name</h2><ul>";
+  $right .= "<h3 id='$id'>$name</h3><ul>$des";
   my $items = $s->{items};
   for my $i (@$items){
     my $n = $i->{name};
@@ -84,5 +85,3 @@ $index =~ s/CIANDCD_BODY/$html/;
 open INDEX, "> index.html" or die "Can not write index.html: $!\n";
 print INDEX $index;
 close INDEX;
-
- 

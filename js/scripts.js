@@ -1,31 +1,36 @@
 
-$(document).ready(function(){/* activate sidebar */
+$(document).ready(function(){
+
+// affix setting
+var affix_top = $(window).height();
+affix_top = affix_top / 3;
+affix_top = affix_top.toString() + "px";
+var affix_bottom = $(window).height() / 3 * 2;
+affix_bottom = affix_bottom.toString() + "px";
+/* activate sidebar */
 $('#sidebar').affix({
   offset: {
-    top: 235
-  }
+    top: function () {
+      return affix_top;
+    },
+    bottom: function () {
+      return affix_bottom;
+    }
+    }
 });
 
 /* activate scrollspy menu */
 var $body   = $(document.body);
-var navHeight = $('.navbar').outerHeight(true) + 10;
+var navHeight = $('.navbar').outerHeight(true) + 70;
 
 $body.scrollspy({
 	target: '#leftCol',
 	offset: navHeight
 });
 
-/* smooth scrolling sections */
-$('a[href*=#]:not([href=#])').click(function() {
-    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-      var target = $(this.hash);
-      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-      if (target.length) {
-        $('html,body').animate({
-          scrollTop: target.offset().top - 50
-        }, 10);
-        return false;
-      }
-    }
-});
+$('#myScrollspy').on('activate.bs.scrollspy', function () {
+  // do something…
+})
+
+
 });

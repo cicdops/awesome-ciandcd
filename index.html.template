@@ -9,10 +9,11 @@
 		<!--[if lt IE 9]>
 			<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
+		<link href="css/docs.min.css" rel="stylesheet">
 		<link href="css/styles.css" rel="stylesheet">
 	</head>
 	<body>
-<nav class="navbar navbar-default navbar-fixed-top" role="banner">
+<nav class="navbar navbar-bright navbar-fixed-top" id="mynavbar" role="banner">
   <div class="container">
     <div class="navbar-header">
       <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
@@ -26,39 +27,38 @@
     <nav class="collapse navbar-collapse" role="navigation">
       <ul class="nav navbar-nav">
         <li>
-          <a href="#sec"></a>
+          <a href="#sec">Article</a>
         </li>
         <li>
-          <a href="#sec"></a>
-        </li>
-        <li>
-          <a href="#sec"></a>
-        </li>
-        <li>
-          <a href="#sec"></a>
+          <a href="#sec">About</a>
         </li>
       </ul>
     </nav>
   </div>
 </nav>
 
-<div id="masthead">  
-  <div class="container">
+<div class="container" id="myheader">
       <div class="row">
-            <div class="well well-lg"> 
-              <div class="row">
-        	      	<img src="//placehold.it/180x100" class="img-responsive">
-              </div>
-            </div>
-      </div> 
-  </div><!--/container-->
-</div><!--/masthead-->
+        <!--<img src="//placehold.it/900x100" class="img-responsive">-->
+      </div>
+</div><!--/container-->
+
 
 <!--main-->
-<div class="container">
+<div class="container" id="mymain">
 	<div class="row">
         CIANDCD_BODY
   	</div><!--/row-->
+</div><!--/container-->
+
+<div class="container" id="myfooter">
+	<div class="row">
+		<div class='col-md-4' id='rightCol'></div>
+		<div class='col-md-4' id='rightCol'>
+		Created by itech001@126.com
+	  </div>
+		<!--<img src="//placehold.it/900x100" class="img-responsive">-->
+	</div>
 </div><!--/container-->
 
 <!-- script references -->

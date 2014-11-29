@@ -10,54 +10,45 @@ author: bootply.com
 */
 
 body {
- padding-top:50px;
+ padding-top:71px;
+ position:relative;
 }
 
-#masthead { 
- min-height:50px;
+#mynavbar{
+  color: #563d7c;
+  background-color: #eee;
+  border-bottom: 2px solid #563d7c;
+}
+#mynavbar a{
+  color: #563d7c;
+  background-color: #eee;
 }
 
-#masthead h1 {
- font-size: 20px;
- line-height: 1;
- padding-top:20px;
+#myheader {
+ min-height:70px;
+ border:1 #eee solid;
 }
 
-#masthead .well {
- margin-top:8%;
+#myfooter {
+  min-height:70px;
+  color: #563d7c;
+  background-color: #eee;
+  border-top: 2px solid #563d7c;
 }
 
-@media screen and (min-width: 768px) {
-  #masthead h1 {
-    font-size: 50px;
-  }
-}
-
-.navbar-bright {
- background-color:#111155;
- color:#fff;
-}
-
-.affix-top,.affix{
- position: static;
-}
-
-@media (min-width: 979px) {
-  #sidebar.affix-top {
-    position: static;
-  	margin-top:30px;
-  	width:228px;
-  }
-  
-  #sidebar.affix {
-    position: fixed;
-    top:70px;
-    width:228px;
-  }
-}
+.affix-top{position:fixed;top:71px;}
+.affix{position:fixed;top:141px;}
+.affix-bottom{position:fixed;top:-30px;}
 
 #sidebar li.active {
   background-color: #eee;
   border:0 #eee solid;
   border-right-width:5px;
+}
+
+#leftCol{
+  border:0 #eee solid;
+  border-right-width:5px;
+  padding-left:0px;
+  padding-right:0px;
 }
