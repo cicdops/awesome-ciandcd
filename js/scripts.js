@@ -28,9 +28,4 @@ $body.scrollspy({
 	offset: navHeight
 });
 
-$('#myScrollspy').on('activate.bs.scrollspy', function () {
-  // do something…
-})
-
-
 });
