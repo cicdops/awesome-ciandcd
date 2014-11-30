@@ -15,7 +15,7 @@ body {
 }
 
 .navbar-brand {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 #mynavbar{
@@ -29,7 +29,7 @@ body {
 }
 
 #myheader {
- min-height:70px;
+ min-height:0px;
  border:1 #eee solid;
 }
 
