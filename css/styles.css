@@ -41,18 +41,7 @@ body {
 .affix{position:fixed;top:141px;}
 .affix-bottom{position:fixed;top:-30px;}
 
-#sidebar li.active {
-  background-color: #eee;
-  border:0 #eee solid;
-  border-right-width:5px;
-}
 
-#leftCol{
-  border:0 #eee solid;
-  border-right-width:5px;
-  padding-left:0px;
-  padding-right:0px;
-}
 
 .bs-callout {
   padding: 5px;

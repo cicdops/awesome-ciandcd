@@ -7,8 +7,8 @@ use Data::Dumper; # Perl core module
 # get md file
 my $giturl = "https://github.com/itech001/ciandcd.git";
 my $ret = 0;
-#$ret = system("rm -rf ciandcd");
-#$ret = system("git clone $giturl");
+$ret = system("rm -rf ciandcd");
+$ret = system("git clone $giturl");
 if($ret){
   print "Error:failed for git clone\n";
   exit 1;
