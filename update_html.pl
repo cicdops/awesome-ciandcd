@@ -7,8 +7,8 @@ use Data::Dumper; # Perl core module
 # get md file
 my $giturl = "https://github.com/itech001/ciandcd.git";
 my $ret = 0;
-$ret = system("rm -rf ciandcd");
-$ret = system("git clone $giturl");
+#$ret = system("rm -rf ciandcd");
+#$ret = system("git clone $giturl");
 if($ret){
   print "Error:failed for git clone\n";
   exit 1;
@@ -47,7 +47,7 @@ while (my $line = <FILE>){
 # left html
 my $left = <<EOU;
       <div class="col-md-3 " id="leftCol">
-        <div class="bs-docs-sidebar">
+        <div class="bs-docs-sidebar hidden-print hidden-xs hidden-sm">
         <ul class="nav bs-docs-sidenav" id="sidebar">
 EOU
 for my $s (@$res){
@@ -63,14 +63,14 @@ my $right = "<div class='col-md-9' id='rightCol'>";
 for my $s (@$res){
   my $name = $s->{name};
   my $id = $s->{id};
-  my $des = $s->{desc};
+  my $des = $s->{desc}; $des = &replace_link($des);
   #$right .= "<h2 id='$id'>$name</h2><ul>";
-  $right .= "<h3 id='$id'>$name</h3><div class='bs-callout bs-callout-info'><ul>$des";
+  $right .= "<h3 id='$id'>$name</h3><div class='bs-callout bs-callout-info'><ul><strong>$des</strong>";
   my $items = $s->{items};
   for my $i (@$items){
     my $n = $i->{name};
     my $u = $i->{url};
-    my $d = $i->{detail};
+    my $d = $i->{detail}; $d = &replace_link($d);
     $right .= "<li><a href=$u>$n</a>&nbsp&nbsp$d</li>";
   }
   $right .= "</ul></div>";
@@ -85,3 +85,11 @@ $index =~ s/CIANDCD_BODY/$html/;
 open INDEX, "> index.html" or die "Can not write index.html: $!\n";
 print INDEX $index;
 close INDEX;
+
+exit 0 ;
+
+sub replace_link(){
+  my $str = shift;
+  $str =~ s/\[(.*?)\]\((.*?)\)/<a href=$2 >$1<\/a>/g;
+  return $str;
+}
