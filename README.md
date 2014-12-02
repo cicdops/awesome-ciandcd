@@ -215,7 +215,7 @@ Conference and submit
 * [devops submit](http://devopssummit.sys-con.com)  
 
 ## Other Awesome Lists
-Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome), [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
 ## Contact
 Contact me for more items about continuous integration and continuous delivery:  
