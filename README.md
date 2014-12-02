@@ -1,5 +1,7 @@
-# ciandcd (ciandcd.com)[http://www.ciandcd.com)
+# ciandcd 
 **Continuous Integration and Continuous Delivery**
+
+written by [ciandcd.com](http://www.ciandcd.com)  
 
 A curated list of awesome tools for:   
 continuous integration  
