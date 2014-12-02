@@ -1,7 +1,7 @@
 # ciandcd 
 **Continuous Integration and Continuous Delivery**
 
-written by [ciandcd.com](http://www.ciandcd.com)  
+Written by [ciandcd.com](http://www.ciandcd.com)  
 
 A curated list of awesome tools for:   
 continuous integration  
@@ -220,7 +220,7 @@ Conference and submit
 Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome), [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
 ## Contact
-To add new items about continuous integration and continuous delivery:
-1) you can fork and push;
-2) add issue;
+To add new items about continuous integration and continuous delivery:  
+1) you can fork and push;  
+2) add issue;  
 3) send me by email itech001@126.com  
