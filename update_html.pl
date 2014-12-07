@@ -63,7 +63,7 @@ my $right = "<div class='col-md-9' id='rightCol'>";
 for my $s (@$res){
   my $name = $s->{name};
   my $id = $s->{id};
-  my $des = $s->{desc}; $des = &replace_link($des);
+  my $des = $s->{desc}; $des = &replace_link($des); $des = &replace_newline($des);
   #$right .= "<h2 id='$id'>$name</h2><ul>";
   $right .= "<h3 id='$id'>$name</h3><div class='bs-callout bs-callout-info'><ul><strong>$des</strong>";
   my $items = $s->{items};
@@ -92,4 +92,10 @@ sub replace_link(){
   my $str = shift;
   $str =~ s/\[(.*?)\]\((.*?)\)/<a href=$2 >$1<\/a>/g;
   return $str;
+}
+
+sub replace_newline(){
+  my $str = shift;
+  $str =~ s/\s{2,}/<br>/g;
+  return $str; 
 }

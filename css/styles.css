@@ -42,7 +42,7 @@ body {
 }
 
 .affix-top{position:fixed;top:71px;}
-.affix{position:fixed;top:141px;}
+.affix{position:fixed;top:100px;}
 .affix-bottom{position:fixed;top:-30px;}
 
 
