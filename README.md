@@ -226,7 +226,7 @@ Other amazingly awesome lists can be found in [awesome](https://github.com/sindr
 To add new items about continuous integration and continuous delivery:  
 1) pull;  
 2) add issue;  
-3) send me by email itech001@126.com;
+3) send me by email itech001@126.com;  
 4) qq group 172758282;  
 
 
