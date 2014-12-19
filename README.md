@@ -161,6 +161,7 @@ The tools for software package and installation
 * [NSIS](http://nsis.sourceforge.net)  NSIS (Nullsoft Scriptable Install System) is a professional open source system to create Windows installers. It is designed to be as small and flexible as possible and is therefore very suitable for internet distribution
 * [rpm](http://rpm.org)  The RPM Package Manager (RPM) is a powerful command line driven package management system capable of installing, uninstalling, verifying, querying, and updating computer software packages
 * [yum](http://yum.baseurl.org)  Yum is an automatic updater and package installer/remover for rpm systems
+* [fpm](https://github.com/jordansissel/fpm) Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.  
 
 ## Deploy
 The tools for web site deploy
