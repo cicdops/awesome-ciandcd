@@ -41,6 +41,7 @@ The theory for continuous integration and continuous deliver
 * [continuousdelivery](http://continuousdelivery.com)  
 * [software integration](http://en.wikipedia.org/wiki/System_integration)  
 * [devopsdays](http://www.devopsdays.org)  
+* [ci cheatsheet](http://refcardz.dzone.com/refcardz/continuous-integration)  
 
 ## Build And Release System
 The system for software build and release, continuous integration and continuous delivery
