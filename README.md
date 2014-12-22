@@ -170,7 +170,8 @@ The tools for software package and installation
 * [rpm](http://rpm.org)  The RPM Package Manager (RPM) is a powerful command line driven package management system capable of installing, uninstalling, verifying, querying, and updating computer software packages
 * [yum](http://yum.baseurl.org)  Yum is an automatic updater and package installer/remover for rpm systems
 * [fpm](https://github.com/jordansissel/fpm) Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.  
-* [wix](http://wixtoolset.org/) The most powerful set of tools available to create your Windows installation experience.  
+* [wix](http://wixtoolset.org/) The most powerful set of tools available to create your Windows installation experience. 
+* [packer](https://www.packer.io/)  Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.  
 
 ## Deploy
 The tools for web site deploy
