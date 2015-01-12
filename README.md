@@ -82,7 +82,8 @@ Online build release system
 * [testling](https://ci.testling.com) Automatic browser tests on every push  
 * [magnum-ci](https://magnum-ci.com)  Hosted Continuous Integration and Delivery Platform for private repositories  
 * [wercker](http://wercker.com)  Test and deploy your applications with ease  
-* [coveralls](https://coveralls.io)  Track your project's code coverage over time, changes to files, and badge your GitHub repo
+* [coveralls](https://coveralls.io)  Track your project's code coverage over time, changes to files, and badge your GitHub repo  
+* [ship.io](https://ship.io/)  Simple, powerful CI for iOS and Android. Re-build, Re-test, Re-deploy.  
 
 ## Infrastructure
 The hardware,virtual machines, fram management, docker
