@@ -84,6 +84,7 @@ Online build release system
 * [wercker](http://wercker.com)  Test and deploy your applications with ease  
 * [coveralls](https://coveralls.io)  Track your project's code coverage over time, changes to files, and badge your GitHub repo  
 * [ship.io](https://ship.io/)  Simple, powerful CI for iOS and Android. Re-build, Re-test, Re-deploy.  
+* [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.  
 
 ## Infrastructure
 The hardware,virtual machines, fram management, docker
@@ -209,6 +210,7 @@ Common used web server
 * [tomcat](http://tomcat.apache.org)  An open source software implementation of the Java Servlet and JavaServer Pages technologies  
 * [jetty](http://www.eclipse.org/jetty) 
 Jetty provides a Web server and javax.servlet container, plus support for SPDY, WebSocket, OSGi, JMX, JNDI, JAAS and many other integrations  
+* [HAProxy](http://www.haproxy.org/) - Software based load Balancing, SSL offloading and performance optimization, compression, and general web routing.  
 
 ## OS And Shell
 Linux shell, perl, python
@@ -240,7 +242,11 @@ Conference and submit
 * [devops submit](http://devopssummit.sys-con.com)  
 
 ## Other Awesome Lists
-Other amazingly awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome), [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
+Other amazingly awesome lists can be found in  
+* [awesome](https://github.com/sindresorhus/awesome)  
+* [awesome-awesome](https://github.com/emijrp/awesome-awesome)  
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)  
+* [sysadmin](https://github.com/itech001/awesome-sysadmin)  
 
 ## Contact
 To add new items about continuous integration and continuous delivery:  
