@@ -84,7 +84,8 @@ Online build release system
 * [wercker](http://wercker.com)  Test and deploy your applications with ease  
 * [coveralls](https://coveralls.io)  Track your project's code coverage over time, changes to files, and badge your GitHub repo  
 * [ship.io](https://ship.io/)  Simple, powerful CI for iOS and Android. Re-build, Re-test, Re-deploy.  
-* [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.  
+* [GitLab CI](https://www.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories.
+* [IBM DevOps Services](https://hub.jazz.net) - Develop, track, plan, and deploy software onto the IBM Bluemix cloud platform.  
 
 ## Infrastructure
 The hardware,virtual machines, fram management, docker
@@ -115,6 +116,7 @@ Version control and source code management tools
 * [bitbuckets](https://bitbucket.org)  Plant your code in the cloud. Watch it grow.
 * [teamfoundationservice](http://tfs.visualstudio.com)  Visual Studio Online, based on the capabilities of Team Foundation Server with additional cloud services, is the online home for your development projects. Get up and running in minutes on our cloud infrastructure without having to install or configure a single server. Visual Studio Online connects to Visual Studio, Eclipse, Xcode, and other Git clients to support development for a variety of platforms and languages  
 *  [phabricator](http://phabricator.org/)  Phabricator is a collection of open source web applications that help software companies build better software.  
+* [IBM DevOps Services](https://hub.jazz.net) - Store, manage, edit, and collaborate on your source code. Then deploy onto the IBM Bluemix cloud platform.
 
 ## Code Review
 Code review tools
