@@ -104,7 +104,6 @@ The hardware,virtual machines, fram management, docker
 * [vagrantup](https://www.vagrantup.com/)  Create and configure lightweight, reproducible, and portable development environments.  
 * [veewee](https://github.com/jedi4ever/veewee) Easing the building of vagrant boxes  
 
-
 ## Source Code Management
 Version control and source code management tools  
 * [git](http://git-scm.com)  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency  
@@ -116,7 +115,7 @@ Version control and source code management tools
 * [github](https://github.com)  Powerful collaboration, review, and code management for open source and private development projects.  
 * [bitbuckets](https://bitbucket.org)  Plant your code in the cloud. Watch it grow.  
 * [teamfoundationservice](http://tfs.visualstudio.com)  Visual Studio Online, based on the capabilities of Team Foundation Server with additional cloud services, is the online home for your development projects. Get up and running in minutes on our cloud infrastructure without having to install or configure a single server. Visual Studio Online connects to Visual Studio, Eclipse, Xcode, and other Git clients to support development for a variety of platforms and languages  
-*  [phabricator](http://phabricator.org/)  Phabricator is a collection of open source web applications that help software companies build better software.  
+* [phabricator](http://phabricator.org/)  Phabricator is a collection of open source web applications that help software companies build better software.  
 * [IBM DevOps Services](https://hub.jazz.net) - Store, manage, edit, and collaborate on your source code. Then deploy onto the IBM Bluemix cloud platform.  
 
 ## Code Review
@@ -149,7 +148,7 @@ Software static check tools
 * [fxcop](http://msdn.microsoft.com/en-us/library/bb429476%28VS.80%29.aspx)  FxCop is an application that analyzes managed code assemblies (code that targets the .NET Framework common language runtime) and reports information about the assemblies, such as possible design, localization, performance, and security improvements  
 * [cpd](http://pmd.sourceforge.net/pmd-4.3.0/cpd.html) Duplicate code can be hard to find, especially in a large project. But PMD's Copy/Paste Detector (CPD) can find it for you  
 * [sonar](http://www.sonarqube.org)  SonarQube is an open platform to manage code quality  
-* [findbugs](http://findbugs.sourceforge.net)  Find Bugs in Java Programs  
+* [findbugs](http://findbugs.sourceforge.net)  Find Bugs in Java Programs   
 * [checkstyle](http://checkstyle.sourceforge.net)  Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard  
 
 ## Dynamic Check
@@ -158,7 +157,7 @@ Software dynamic check tools
 
 ## Performance Analysis
 Software performance analysis tools  
-* [performance tools wiki](http://en.wikipedia.org/wiki/List_of_performance_analysis_tools)  wiki page  
+* [performance tools wiki](http://en.wikipedia.org/wiki/List_of_performance_analysis_tools)  wiki page    
 
 ## Coverage
 Software testing coverage tools  
@@ -169,7 +168,7 @@ Software testing framework and tools
 * [Testingautomation](http://en.wikipedia.org/wiki/Test_automation)  test automation wiki page  
 * [softwareqatest](http://www.softwareqatest.com) FAQ page  
 * [qaforums](http://www.qaforums.com)  SQA Forums  
-* [opensourcetesting](http://www.opensourcetesting.org)  open source software testing tools, news and disccussions  
+* [opensourcetesting](http://www.opensourcetesting.org)  open source software testing tools, news and disccussions   
 * [selenium](http://www.seleniumhq.org)  Selenium automates browsers  
 
 ## Package
@@ -196,7 +195,7 @@ The tools for software delivery
 * [nexus](http://www.sonatype.com/nexus)  The use of repository managers (also known as component managers) is helping software development teams achieve simple gains in speed, efficiency, and quality of their operations  
 * [chocolatey](https://chocolatey.org/) Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind  
 * [pulp](http://www.pulpproject.org/)  Pulp is a platform for managing repositories of content, such as software packages, and pushing that content out to large numbers of consumers.  
-* [herd](https://github.com/russss/Herd) A single-command bittorrent distribution system, based on Twitter's Murder   
+* [herd](https://github.com/russss/Herd) A single-command bittorrent distribution system, based on Twitter's Murder     
 * [murder](https://github.com/lg/murder)  Large scale server deploys using BitTorrent and the BitTornado library from twitter.com  
 
 ## Provisioning Tools 
@@ -232,7 +231,7 @@ Database version control system
 * [liquibase](http://www.liquibase.org) source control for your database  
 * [flywaydb](http://flywaydb.org) Database Migrations Made Easy  
 * [nextep](http://www.nextep-softwares.com) NeXtep Softwares provides software solutions for the industrialization of your database developments and deployments. Our goal is to increase the productivity of your development teams by taking control of your developments' lifecycle and by automating your deployment and test processes  
-* [dbdeploy](http://dbdeploy.com) dbdeploy is a Database Change Management tool. It’s for developers or DBAs who want to evolve their database design – or refactor their database – in a simple, controlled, flexible and frequent manner  
+* [dbdeploy](http://dbdeploy.com) dbdeploy is a Database Change Management tool. It’s for developers or DBAs who want to evolve their database design – or refactor their database – in a simple, controlled, flexible and frequent manner   
 * [dbmaestro](http://www.dbmaestro.com/)  Controlled Database Continuous Delivery is Our Business  
 
 ## Useful Sites
