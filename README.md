@@ -200,11 +200,11 @@ The tools for software delivery
 * [murder](https://github.com/lg/murder)  Large scale server deploys using BitTorrent and the BitTornado library from twitter.com  
 
 ## Provisioning Tools 
-Provision tools  
+Provision tools
+* [Ansible](http://www.ansible.com) Simple infrastructure management tool via humam readable playbooks
 * [Puppet]() Build, destroy and rebuild servers on any public or private cloud  
 * [Chef](http://www.opscode.com/chef)  Fast, scalable and flexible software for data center automation  
-* [SaltStack](http://www.saltstack.com/community) Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine  
-* [ansible](http://www.ansible.com)  
+* [SaltStack](http://www.saltstack.com/community) Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine
 
 ## Web Server
 Common used web server  
