@@ -251,6 +251,7 @@ Other amazingly awesome lists can be found in
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)  
 * [sysadmin](https://github.com/itech001/awesome-sysadmin)  
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)  
+* [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)  
 
 ## Contact
 To add new items about continuous integration and continuous delivery:  
