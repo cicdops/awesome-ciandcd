@@ -67,6 +67,7 @@ and developer-friendly build server out of the box
 
 ## Online Build System
 Online build release system  
+* [closeheat](http://closeheat.com) Static website integration with GitHub and Cloud development environment
 * [travis-ci](https://travis-ci.org) ci server for github and bitbuckets  
 * [cloudbees](http://www.cloudbees.com) the Enterprise Jenkins Company  
 * [elasticbox](https://elasticbox.com)  A DevOps approach that focuses on reusable application components as a service, and enables operations to provide IT as a Service  
