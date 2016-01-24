@@ -170,7 +170,8 @@ Software testing framework and tools
 * [softwareqatest](http://www.softwareqatest.com) FAQ page  
 * [qaforums](http://www.qaforums.com)  SQA Forums  
 * [opensourcetesting](http://www.opensourcetesting.org)  open source software testing tools, news and disccussions   
-* [selenium](http://www.seleniumhq.org)  Selenium automates browsers  
+* [selenium](http://www.seleniumhq.org)  Selenium automates browsers
+* [Monkey Test It](https://monkeytest.it) Free automated website tester with CURLable API
 
 ## Package
 The tools for software package and installation  
