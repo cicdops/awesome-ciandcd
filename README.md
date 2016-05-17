@@ -48,6 +48,7 @@ The theory for continuous integration and continuous deliver
 ## Build And Release System
 The system for software build and release, continuous integration and continuous delivery  
 * [Jenkins](http://jenkins-ci.org)  An extendable open source continuous integration server  
+* [Concourse](https://concourse.ci) Rather than a myriad of checkboxes, pipelines are defined as a single declarative config file
 * [BuildForge](https://jazz.net/downloads/rational-build-forge/)  Automate and accelerate build and release processes  
 * [ElectricCommander](http://electric-cloud.com/products/electricflow/)  ElectricCommander gives distributed teams shared control and visibility into infrastructure, tool chains and processes. It accelerates and automates the software delivery process to enable agility, predictability and security across many build-test-deploy pipelines  
 * [Teamcity](http://www.jetbrains.com/teamcity/index.html)  Ready to work, extensible  
