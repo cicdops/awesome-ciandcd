@@ -48,6 +48,7 @@ The theory for continuous integration and continuous deliver
 ## Build And Release System
 The system for software build and release, continuous integration and continuous delivery  
 * [Jenkins](http://jenkins-ci.org)  An extendable open source continuous integration server  
+* [Solano CI](https://www.solanolabs.com)  Faster Continuous Integration and Deployment with patented auto-parallelization. See results 10 to 80x faster. 14-day free trial. No credit card required.
 * [Concourse](https://concourse.ci) Rather than a myriad of checkboxes, pipelines are defined as a single declarative config file
 * [BuildForge](https://jazz.net/downloads/rational-build-forge/)  Automate and accelerate build and release processes  
 * [ElectricCommander](http://electric-cloud.com/products/electricflow/)  ElectricCommander gives distributed teams shared control and visibility into infrastructure, tool chains and processes. It accelerates and automates the software delivery process to enable agility, predictability and security across many build-test-deploy pipelines  
@@ -81,7 +82,6 @@ Online build release system
 * [appveyor](http://www.appveyor.com)  Continuous Integration and Deployment service for busy Windows  
 * [snap-ci](https://snap-ci.com) Easy builds, deployed when you want   
 * [codeship](https://codeship.com)  Continuous Integration and Delivery made simple  
-* [solanolabs](https://www.solanolabs.com)  Hosted continuous integration and deployment  
 * [githost](https://githost.io)  Painless GitLab CE & CI Hosting  
 * [testling](https://ci.testling.com) Automatic browser tests on every push  
 * [magnum-ci](https://magnum-ci.com)  Hosted Continuous Integration and Delivery Platform for private repositories  
