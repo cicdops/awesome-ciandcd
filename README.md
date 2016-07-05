@@ -51,7 +51,7 @@ The system for software build and release, continuous integration and continuous
 * [Solano CI](https://www.solanolabs.com)  Faster Continuous Integration and Deployment with patented auto-parallelization. See results 10 to 80x faster. 14-day free trial. No credit card required.
 * [Concourse](https://concourse.ci) Rather than a myriad of checkboxes, pipelines are defined as a single declarative config file
 * [BuildForge](https://jazz.net/downloads/rational-build-forge/)  Automate and accelerate build and release processes  
-* [ElectricCommander](http://electric-cloud.com/products/electricflow/)  ElectricCommander gives distributed teams shared control and visibility into infrastructure, tool chains and processes. It accelerates and automates the software delivery process to enable agility, predictability and security across many build-test-deploy pipelines  
+* [ElectricFlow](http://electric-cloud.com/products/electricflow/)  ElectricFlow/ElectricCommander gives distributed teams shared control and visibility into infrastructure, tool chains and processes. It accelerates and automates the software delivery process to enable agility, predictability and security across many build-test-deploy pipelines  
 * [Teamcity](http://www.jetbrains.com/teamcity/index.html)  Ready to work, extensible  
 and developer-friendly build server out of the box  
 * [bamboo](https://www.atlassian.com/software/bamboo)  Bamboo does more than just run builds and tests. It connects issues, commits, test results, and deploys so the whole picture is available to your entire product team  
@@ -68,6 +68,7 @@ and developer-friendly build server out of the box
 * [rexify](http://www.rexify.org//)  perl Deployment & Configuration Management  
 * [SimpleCI](https://github.com/simpleci/simpleci) Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.  
 * [pulse](http://zutubi.com) no free version.  
+* [rundesk](http://rundeck.org) Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.  
 
 ## Online Build System
 Online build release system  
