@@ -177,6 +177,7 @@ Software testing framework and tools
 * [opensourcetesting](http://www.opensourcetesting.org)  open source software testing tools, news and disccussions   
 * [selenium](http://www.seleniumhq.org)  Selenium automates browsers
 * [Monkey Test It](https://monkeytest.it) Free automated website tester with CURLable API
+* [Assertible](https://assertible.com) Continuous post deployment testing for GitHub
 
 ## Package
 The tools for software package and installation  
