@@ -258,12 +258,11 @@ Other amazingly awesome lists can be found in
 * [sysadmin](https://github.com/itech001/awesome-sysadmin)  
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)  
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)  
+* [awesome-docker](https://github.com/veggiemonk/awesome-docker)  
 
 ## Contact
-To add new items about continuous integration and continuous delivery:  
-1) pull;  
-2) add issue;  
-3) send me by email itech001@126.com;  
-4) qq group 172758282;  
+Welcome To add new items about continuous integration and continuous delivery.  
+my email is: itech001@126.com.  
+  
 
 
