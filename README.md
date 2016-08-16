@@ -133,6 +133,7 @@ Code review tools
 * [getbarkeep](http://getbarkeep.org) a fast, fun way to review code  
 * [gerrit](https://code.google.com/p/gerrit/) Gerrit is a web based code review system, facilitating online code reviews for projects using the Git version control system  
 * [Codebrag](http://www.codebrag.com/)  Codebrag is a simple code review tool that makes the process work for your team.  
+* [Upsource](https://www.jetbrains.com/upsource/) Polyglot Code Review Tool, featuring code insight for PHP, JavaScript and Kotlin, GitHub integration, automated workflows, integration with CI servers
 
 ## Build
 Build tools  
@@ -146,6 +147,7 @@ Build tools
 * [maven](http://maven.apache.org)  Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.  
 * [gradle](http://gradle.org/)   Gradle is build automation evolved. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.  
 * [ElectricacCelerator](http://electric-cloud.com/products/electricaccelerator)   Continuous Delivery isn’t continuous if builds and tests take too long to complete. ElectricAccelerator speeds up builds and tests by up to 20X, improving software time to market, infrastructure utilization and developer productivity  
+* [SBT](http://www.scala-sbt.org/index.html)  sbt is an open source build tool for Scala and Java projects.
 
 ## Static Check
 Software static check tools  
