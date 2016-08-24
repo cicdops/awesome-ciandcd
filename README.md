@@ -160,6 +160,7 @@ Software static check tools
 ## Dynamic Check
 Software dynamic check tools  
 * [dynamic tools wiki](https://en.wikipedia.org/wiki/Dynamic_program_analysis)  wiki page  
+* [valgrind](http://valgrind.org)  automatically detect many memory management and threading bugs, and profile your programs in detail  
 
 ## Performance Analysis
 Software performance analysis tools  
