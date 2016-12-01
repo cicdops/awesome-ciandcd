@@ -92,7 +92,8 @@ Online build release system
 * [coveralls](https://coveralls.io)  Track your project's code coverage over time, changes to files, and badge your GitHub repo  
 * [GitLab CI](https://about.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories. 
 * [IBM DevOps Services](https://hub.jazz.net) - Develop, track, plan, and deploy software onto the IBM Bluemix cloud platform.  
-* [deploybot](https://deploybot.com) - Instantly build and ship code anywhere in one consistent process for your entire team.  
+* [deploybot](https://deploybot.com) - Instantly build and ship code anywhere in one consistent process for your entire team.
+* [Semaphore CI](https://semaphoreci.com/) — Fast and easy to use continuous integration and deployment service with native Docker support.
 
 ## Infrastructure
 The hardware,virtual machines, fram management, docker  
