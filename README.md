@@ -34,6 +34,7 @@ devops
 - [Database Version Control](#database-version-control)
 - [Useful Sites](#useful-sites)
 - [Conference And Submit](#conference-and-submit)
+- [Books](#books)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contact](#contact)
 
@@ -253,6 +254,9 @@ Other useful pages
 ## Conference And Submit
 Conference and submit  
 * [devops submit](http://devopssummit.sys-con.com)  
+
+## Books
+* [Securing DevOps](https://manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) - A book on utilizing CI/CD techniques to improve the security of web applications and their infrastructure.
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in  
