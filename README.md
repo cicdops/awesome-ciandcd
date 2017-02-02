@@ -136,6 +136,7 @@ Code review tools
 * [gerrit](https://code.google.com/p/gerrit/) Gerrit is a web based code review system, facilitating online code reviews for projects using the Git version control system  
 * [Codebrag](http://www.codebrag.com/)  Codebrag is a simple code review tool that makes the process work for your team.  
 * [Upsource](https://www.jetbrains.com/upsource/) Polyglot Code Review Tool, featuring code insight for PHP, JavaScript and Kotlin, GitHub integration, automated workflows, integration with CI servers
+* [Ebert](https://ebertapp.io) Ebert does continuous static analysis of your GitHub repositories and delivers it straight to your Pull Requests, helping your team to focus on what's important and deliver better software.
 
 ## Build
 Build tools  
