@@ -70,6 +70,7 @@ and developer-friendly build server out of the box
 * [SimpleCI](https://github.com/simpleci/simpleci) Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.  
 * [pulse](http://zutubi.com) no free version.  
 * [rundesk](http://rundeck.org) Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.  
+* [PHP Censor](https://github.com/corpsee) PHP Censor is a open source self-hosted continuous integration server for PHP projects (Fork of PHPCI)
 
 ## Online Build System
 Online build release system  
