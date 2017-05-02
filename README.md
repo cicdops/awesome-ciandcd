@@ -69,7 +69,7 @@ and developer-friendly build server out of the box
 * [rexify](http://www.rexify.org//)  perl Deployment & Configuration Management  
 * [SimpleCI](https://github.com/simpleci/simpleci) Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.  
 * [pulse](http://zutubi.com) no free version.  
-* [rundesk](http://rundeck.org) Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.  
+* [rundeck](http://rundeck.org) Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.  
 
 ## Online Build System
 Online build release system  
