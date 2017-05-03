@@ -117,6 +117,7 @@ The hardware,virtual machines, fram management, docker
 * [boxstarter](http://boxstarter.org/) Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages.  
 * [vagrantup](https://www.vagrantup.com/)  Create and configure lightweight, reproducible, and portable development environments.  
 * [veewee](https://github.com/jedi4ever/veewee) Easing the building of vagrant boxes  
+* [mesosphere-dc/os](mesosphere.com) As a datacenter operating system, DC/OS is itself a distributed system, a cluster manager, a container platform, and an operating system.  
 
 ## Source Code Management
 Version control and source code management tools  
