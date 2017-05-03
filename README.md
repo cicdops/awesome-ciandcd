@@ -112,12 +112,12 @@ The hardware,virtual machines, fram management, docker
 * [ctrixserver](http://www.citrix.com/products/xenserver/overview.html)  XenServer is the best server virtualization platform for public and private clouds, powering 4 of the 5 largest hosting provider clouds.  Built with scale, security and multi-tenancy in mind, XenServer allows for even greater flexibility and cost efficiency  
 * [miscrosofthyperv](Docker - An open platform for distributed applications for developers and sysadmins)  microsoft virtualization  
 * [amazon](http://aws.amazon.com/ec2/) Scalable, pay-as-you-go compute capacity in the cloud  
+* [mesosphere-dc/os](mesosphere.com) As a datacenter operating system, DC/OS is itself a distributed system, a cluster manager, a container platform, and an operating system.  
 
 ## Dev env
 * [boxstarter](http://boxstarter.org/) Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages.  
 * [vagrantup](https://www.vagrantup.com/)  Create and configure lightweight, reproducible, and portable development environments.  
 * [veewee](https://github.com/jedi4ever/veewee) Easing the building of vagrant boxes  
-* [mesosphere-dc/os](mesosphere.com) As a datacenter operating system, DC/OS is itself a distributed system, a cluster manager, a container platform, and an operating system.  
 
 ## Source Code Management
 Version control and source code management tools  
