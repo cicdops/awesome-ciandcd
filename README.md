@@ -71,6 +71,7 @@ and developer-friendly build server out of the box
 * [pulse](http://zutubi.com) no free version.  
 * [rundeck](http://rundeck.org) Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.  
 
+
 ## Online Build System
 Online build release system  
 * [closeheat](http://closeheat.com) Static website integration with GitHub and Cloud development environment
@@ -95,6 +96,7 @@ Online build release system
 * [IBM DevOps Services](https://hub.jazz.net) - Develop, track, plan, and deploy software onto the IBM Bluemix cloud platform.  
 * [deploybot](https://deploybot.com) - Instantly build and ship code anywhere in one consistent process for your entire team.
 * [Semaphore CI](https://semaphoreci.com/) — Fast and easy to use continuous integration and deployment service with native Docker support.
+* [flow.ci](https://flow.ci/) - flow.ci, hosted continuous integration and delivery service for innovators who shape the future.
 
 ## Infrastructure
 The hardware,virtual machines, fram management, docker  
