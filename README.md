@@ -1,4 +1,4 @@
-#ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **Continuous Integration and Continuous Delivery**
 
@@ -69,8 +69,8 @@ and developer-friendly build server out of the box
 * [rexify](http://www.rexify.org//)  perl Deployment & Configuration Management  
 * [SimpleCI](https://github.com/simpleci/simpleci) Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.  
 * [pulse](http://zutubi.com) no free version.  
-* [rundesk](http://rundeck.org) Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.  
 * [PHP Censor](https://github.com/corpsee) PHP Censor is a open source self-hosted continuous integration server for PHP projects (Fork of PHPCI)
+* [rundeck](http://rundeck.org) Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.  
 
 ## Online Build System
 Online build release system  
@@ -96,6 +96,7 @@ Online build release system
 * [IBM DevOps Services](https://hub.jazz.net) - Develop, track, plan, and deploy software onto the IBM Bluemix cloud platform.  
 * [deploybot](https://deploybot.com) - Instantly build and ship code anywhere in one consistent process for your entire team.
 * [Semaphore CI](https://semaphoreci.com/) — Fast and easy to use continuous integration and deployment service with native Docker support.
+* [flow.ci](https://flow.ci/) - flow.ci, hosted continuous integration and delivery service for innovators who shape the future.
 
 ## Infrastructure
 The hardware,virtual machines, fram management, docker  
