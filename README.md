@@ -91,7 +91,6 @@ Online build release system
 * [magnum-ci](https://magnum-ci.com)  Hosted Continuous Integration and Delivery Platform for private repositories  
 * [wercker](http://wercker.com)  Test and deploy your applications with ease  
 * [codecov](https://codecov.io)  Continuous code coverage. Featuring browser extenstions and awesome pull request commentsto track coverage over time on your GitHub/Bitbucket/Gitlab repo  
-* [coveralls](https://coveralls.io)  Track your project's code coverage over time, changes to files, and badge your GitHub repo  
 * [GitLab CI](https://about.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories. 
 * [IBM DevOps Services](https://hub.jazz.net) - Develop, track, plan, and deploy software onto the IBM Bluemix cloud platform.  
 * [deploybot](https://deploybot.com) - Instantly build and ship code anywhere in one consistent process for your entire team.
