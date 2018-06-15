@@ -190,6 +190,7 @@ Software testing framework and tools
 * [selenium](http://www.seleniumhq.org)  Selenium automates browsers
 * [Monkey Test It](https://monkeytest.it) Free automated website tester with CURLable API
 * [Assertible](https://assertible.com) Continuous post deployment testing for GitHub
+* [Macaca](https://github.com/alibaba/macaca) Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms
 
 ## Package
 The tools for software package and installation  
