@@ -221,7 +221,7 @@ The tools for software delivery
 
 ## Provisioning Tools 
 Provision tools
-* [Ansible](http://www.ansible.com) Simple infrastructure management tool via humam readable playbooks
+* [Ansible](http://www.ansible.com) Simple infrastructure management tool via human readable playbooks
 * [Puppet]() Build, destroy and rebuild servers on any public or private cloud  
 * [Chef](https://www.chef.io/chef/)  Fast, scalable and flexible software for data center automation  
 * [SaltStack](http://saltstack.com/community/) Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine
