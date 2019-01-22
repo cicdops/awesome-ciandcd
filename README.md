@@ -96,6 +96,7 @@ Online build release system
 * [deploybot](https://deploybot.com) - Instantly build and ship code anywhere in one consistent process for your entire team.
 * [Semaphore CI](https://semaphoreci.com/) — Fast and easy to use continuous integration and deployment service with native Docker support.
 * [flow.ci](https://flow.ci/) - flow.ci, hosted continuous integration and delivery service for innovators who shape the future.
+* [Cirrus CI](https://cirrus-ci.org) Free for open source, supports Linux, Windows, macOS and FreeBSD, flexible hosted CI service
 
 ## Monitoring
 Tools for monitoring the status continuous integration and continuous delivery  
