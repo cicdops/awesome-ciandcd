@@ -45,6 +45,7 @@ The theory for continuous integration and continuous deliver
 * [software integration](https://en.wikipedia.org/wiki/System_integration)  
 * [devopsdays](http://www.devopsdays.org)  
 * [ci cheatsheet](https://dzone.com/refcardz/continuous-integration)  
+* [devops_roadmap](https://github.com/kamranahmedse/developer-roadmap)  
 
 ## Build And Release System
 The system for software build and release, continuous integration and continuous delivery  
@@ -97,6 +98,8 @@ Online build release system
 * [Semaphore CI](https://semaphoreci.com/) — Fast and easy to use continuous integration and deployment service with native Docker support.
 * [flow.ci](https://flow.ci/) - flow.ci, hosted continuous integration and delivery service for innovators who shape the future.
 * [Bitrise](https://www.bitrise.io/)  Cloud based continuous integration and delivery for mobile, free for OSS  
+* [Cirrus CI](https://cirrus-ci.org) Free for open source, supports Linux, Windows, macOS and FreeBSD, flexible hosted CI service  
+
 
 ## Monitoring
 Tools for monitoring the status continuous integration and continuous delivery  
