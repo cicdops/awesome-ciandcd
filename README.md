@@ -43,6 +43,7 @@ The theory for continuous integration and continuous deliver
 * [continuousIntegration](http://martinfowler.com/articles/continuousIntegration.html)  
 * [continuousdelivery](http://continuousdelivery.com)  
 * [software integration](https://en.wikipedia.org/wiki/System_integration)  
+* [ci/cd pipeline](https://semaphoreci.com/blog/cicd-pipeline)
 * [devopsdays](http://www.devopsdays.org)  
 * [ci cheatsheet](https://dzone.com/refcardz/continuous-integration)  
 * [devops_roadmap](https://github.com/kamranahmedse/developer-roadmap)  
