@@ -161,6 +161,8 @@ Build tools
 * [gradle](http://gradle.org/)   Gradle is build automation evolved. Gradle can automate the building, testing, publishing, deployment and more of software packages or other types of projects such as generated static websites, generated documentation or indeed anything else.  
 * [ElectricacCelerator](http://electric-cloud.com/products/electricaccelerator)   Continuous Delivery isn’t continuous if builds and tests take too long to complete. ElectricAccelerator speeds up builds and tests by up to 20X, improving software time to market, infrastructure utilization and developer productivity  
 * [SBT](http://www.scala-sbt.org/index.html)  sbt is an open source build tool for Scala and Java projects.
+* [do](https://github.com/8gears/do)  The simplest build tool on earth. Agnostic and multipurpose build tool and a build file. Tries to be better than the usual shell hell.
+
 
 ## Static Check
 Software static check tools  
