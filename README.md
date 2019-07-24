@@ -58,7 +58,7 @@ The system for software build and release, continuous integration and continuous
 * [Teamcity](http://www.jetbrains.com/teamcity/index.html)  Ready to work, extensible  
 and developer-friendly build server out of the box  
 * [bamboo](https://www.atlassian.com/software/bamboo)  Bamboo does more than just run builds and tests. It connects issues, commits, test results, and deploys so the whole picture is available to your entire product team  
-* [go](http://www.go.cd)  Automate and streamline the build-test-release cycle for worry-free, continuous delivery of your product  
+* [go (the old snap-ci)](https://www.gocd.org/)  Automate and streamline the build-test-release cycle for worry-free, continuous delivery of your product  
 * [hudson](http://hudson-ci.org)  the previous one of Jenkins  
 * [openbuildservice](http://openbuildservice.org)  The Open Build Service (OBS) is a generic system to build and distribute binary packages from sources in an automatic, consistent and reproducible way. You can release packages as well as updates, add-ons, appliances and entire distributions for a wide range of operating systems and hardware architectures  
 * [buildbot](http://trac.buildbot.net)   Buildbot is a continuous integration system designed to automate the build/test cycle. By automatically rebuilding and testing the tree each time something has changed, build problems are pinpointed quickly, before other developers are inconvenienced by the failure  
@@ -87,7 +87,7 @@ Online build release system
 * [buildbox](https://buildkite.com/)  Simple self-hosted Continuous Integration  
 * [drone](https://drone.io) Open source continuous integration platform built on Docker  
 * [appveyor](http://www.appveyor.com)  Continuous Integration and Deployment service for busy Windows  
-* [snap-ci](https://snap-ci.com) Easy builds, deployed when you want   
+* ~~[snap-ci](https://snap-ci.com) Easy builds, deployed when you want~~.
 * [codeship](https://codeship.com)  Continuous Integration and Delivery made simple  
 * [githost](https://githost.io)  Painless GitLab CE & CI Hosting  
 * [testling](https://ci.testling.com) Automatic browser tests on every push  
