@@ -72,6 +72,7 @@ and developer-friendly build server out of the box
 * [pulse](http://zutubi.com) no free version.  
 * [PHP Censor](https://github.com/php-censor/php-censor) Open source self-hosted continuous integration server for PHP projects.  
 * [rundeck](http://rundeck.org) Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.  
+* [cds](https://ovh.github.io/cds) CDS is an Enterprise-Grade Continuous Delivery & DevOps Automation Platform written in Go(lang).  
 
 ## Online Build System
 Online build release system  
