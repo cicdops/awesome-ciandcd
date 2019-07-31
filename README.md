@@ -73,7 +73,8 @@ and developer-friendly build server out of the box
 * [pulse](http://zutubi.com) no free version.  
 * [PHP Censor](https://github.com/php-censor/php-censor) Open source self-hosted continuous integration server for PHP projects.  
 * [rundeck](http://rundeck.org) Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.  
-* [cds](https://ovh.github.io/cds) CDS is an Enterprise-Grade Continuous Delivery & DevOps Automation Platform written in Go(lang).  
+* [cds](https://ovh.github.io/cds) CDS is an Enterprise-Grade Continuous Delivery & DevOps Automation Platform written in Go(lang).
+* [Drone CI](https://drone.io/) Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.
 
 ## Online Build System
 Online build release system  
