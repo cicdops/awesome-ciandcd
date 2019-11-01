@@ -102,7 +102,8 @@ Online build release system
 * [flow.ci](https://flow.ci/) - flow.ci, hosted continuous integration and delivery service for innovators who shape the future.
 * [Bitrise](https://www.bitrise.io/)  Cloud based continuous integration and delivery for mobile, free for OSS  
 * [Cirrus CI](https://cirrus-ci.org) Free for open source, supports Linux, Windows, macOS and FreeBSD, flexible hosted CI service  
-* [semaphoreci](https://semaphoreci.com) The continuous integration and delivery platform powering the world’s best engineering teams  
+* [semaphoreci](https://semaphoreci.com) The continuous integration and delivery platform powering the world’s best engineering teams
+* [DeployPlace](https://deployplace.com) - Complex deployments become simple. Deploy your applications from git or CI in minutes.
 
 
 ## Monitoring
