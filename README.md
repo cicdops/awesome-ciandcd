@@ -74,7 +74,8 @@ and developer-friendly build server out of the box
 * [PHP Censor](https://github.com/php-censor/php-censor) Open source self-hosted continuous integration server for PHP projects.  
 * [rundeck](http://rundeck.org) Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.  
 * [cds](https://ovh.github.io/cds) CDS is an Enterprise-Grade Continuous Delivery & DevOps Automation Platform written in Go(lang).
-* [Drone CI](https://drone.io/) Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.
+* [Drone CI](https://drone.io/) Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.  
+* [Luigi](https://github.com/spotify/luigi) Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.  
 
 ## Online Build System
 Online build release system  
@@ -102,8 +103,8 @@ Online build release system
 * [flow.ci](https://flow.ci/) - flow.ci, hosted continuous integration and delivery service for innovators who shape the future.
 * [Bitrise](https://www.bitrise.io/)  Cloud based continuous integration and delivery for mobile, free for OSS  
 * [Cirrus CI](https://cirrus-ci.org) Free for open source, supports Linux, Windows, macOS and FreeBSD, flexible hosted CI service  
-* [semaphoreci](https://semaphoreci.com) The continuous integration and delivery platform powering the world’s best engineering teams
 * [DeployPlace](https://deployplace.com) - Complex deployments become simple. Deploy your applications from git or CI in minutes.
+* [builkite](https://buildkite.com) Lightning fast testing and delivery for all your software projects  
 
 
 ## Monitoring
