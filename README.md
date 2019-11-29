@@ -237,7 +237,8 @@ Provision tools
 * [Ansible](http://www.ansible.com) Simple infrastructure management tool via human readable playbooks
 * [Puppet]() Build, destroy and rebuild servers on any public or private cloud  
 * [Chef](https://www.chef.io/chef/)  Fast, scalable and flexible software for data center automation  
-* [SaltStack](http://saltstack.com/community/) Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine
+* [SaltStack](http://saltstack.com/community/) Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine  
+* [terraform](https://www.terraform.io）Use Infrastructure as Code to provision and manage any cloud, infrastructure, or service  
 
 ## Web Server
 Common used web server  
