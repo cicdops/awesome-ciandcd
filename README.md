@@ -105,7 +105,7 @@ Online build release system
 * [Bitrise](https://www.bitrise.io/)  Cloud based continuous integration and delivery for mobile, free for OSS  
 * [Cirrus CI](https://cirrus-ci.org) Free for open source, supports Linux, Windows, macOS and FreeBSD, flexible hosted CI service  
 * [DeployPlace](https://deployplace.com) - Complex deployments become simple. Deploy your applications from git or CI in minutes.
-* [builkite](https://buildkite.com) Lightning fast testing and delivery for all your software projects  
+* [Buildkite](https://buildkite.com) - Lightning fast testing and delivery for all your software projects
 
 
 ## Monitoring
