@@ -299,6 +299,8 @@ Other amazingly awesome lists can be found in
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
 * [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services)
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker)  
+*[awesome-cicd](https://github.com/awsomecicd/awesomecicd.git)
+
 
 ## Contact
 Welcome To add new items about continuous integration and continuous delivery.  
