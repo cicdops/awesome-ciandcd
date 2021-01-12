@@ -288,6 +288,7 @@ Conference and submit
 ## Books
 * [Securing DevOps](https://manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) - A book on utilizing CI/CD techniques to improve the security of web applications and their infrastructure.
 * [Learning Continuous Integraion with TeamCity](https://www.packtpub.com/web-development/learning-continuous-integration-teamcity-raw) - Master the principles and practices behind Continuous Integration by setting it up for different technology stacks using TeamCity
+* [Pipeline as Code](https://www.manning.com/books/pipeline-as-code) - A book on building CI/CD pipelines with Jenkins for cloud-native applications (including K8s & Serverless apps).
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in  
