@@ -112,6 +112,7 @@ Online build release system
 ## Monitoring
 Tools for monitoring the status continuous integration and continuous delivery  
 * [CatLight](https://catlight.io)  Build status monitor for Jenkins, TeamCity, Travis CI, Appveyor and TFS
+* [Thundra Foresight](https://www.thundra.io/foresight) - visibility into CI pipeline by spotting test failures in no time.
 
 ## Infrastructure
 The hardware,virtual machines, fram management, docker  
