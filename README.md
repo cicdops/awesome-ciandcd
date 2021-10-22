@@ -288,6 +288,8 @@ Conference and submit
 ## Books
 * [Securing DevOps](https://manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) - A book on utilizing CI/CD techniques to improve the security of web applications and their infrastructure.
 * [Learning Continuous Integraion with TeamCity](https://www.packtpub.com/web-development/learning-continuous-integration-teamcity-raw) - Master the principles and practices behind Continuous Integration by setting it up for different technology stacks using TeamCity
+* [Continuous Delivery for Kubernetes](https://www.manning.com/books/continuous-delivery-for-kubernetes) - Take the fast track in your journey to continuous delivery, with open source tools for Kubernetes and cloud applications
+* [Continuous Delivery in Go](https://www.manning.com/books/continuous-delivery-in-go) - Book that shows you how to build pipelines that optimize your development process so you can deliver software seamlessly to production.
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in  
