@@ -223,6 +223,7 @@ The tools for web site deploy
 * [xl-deploy](https://xebialabs.com/products/xl-deploy)  Agentless, Model-based App Deployment  
 * [Jenkinsdeployplugin](https://wiki.jenkins-ci.org/display/JENKINS/Deploy%20Plugin)   deploy to tomcat  
 * [bintray](https://bintray.com)  The fastest and most reliable way to automate the distribution of your software releases  
+* [Gitploy](https://www.gitploy.io/) Build the deployment system around GitHub in minutes
 
 ## Delivery
 The tools for software delivery  
