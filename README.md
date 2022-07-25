@@ -112,7 +112,7 @@ Online build release system
 ## Monitoring
 Tools for monitoring the status continuous integration and continuous delivery  
 * [CatLight](https://catlight.io)  Build status monitor for Jenkins, TeamCity, Travis CI, Appveyor and TFS
-* [Barklarm](https://www.barklarm.com/)  Multiplatform alarm munitor and build status of servers that support of CCTray Specification and Github Actions.
+* [Barklarm](https://www.barklarm.com/)  Open Source multiplatform alarm munitor and build status of servers that support of CCTray Specification and Github Actions.
 * [CCMenu](http://ccmenu.org/)  OSx build status monitor for servers tha support CCTray Specification.
 
 ## Infrastructure
