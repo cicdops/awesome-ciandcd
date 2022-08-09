@@ -77,6 +77,7 @@ and developer-friendly build server out of the box
 * [cds](https://ovh.github.io/cds) CDS is an Enterprise-Grade Continuous Delivery & DevOps Automation Platform written in Go(lang).
 * [Drone CI](https://drone.io/) Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.  
 * [Luigi](https://github.com/spotify/luigi) Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.  
+* [Kraken CI](https://kraken.ci) Kraken CI is a modern CI/CD, open-source, on-premise system that is highly scalable and focused on testing.  
 
 ## Online Build System
 Online build release system  
@@ -112,6 +113,8 @@ Online build release system
 ## Monitoring
 Tools for monitoring the status continuous integration and continuous delivery  
 * [CatLight](https://catlight.io)  Build status monitor for Jenkins, TeamCity, Travis CI, Appveyor and TFS
+* [Barklarm](https://www.barklarm.com/)  Open Source multiplatform alarm munitor and build status of servers that support of CCTray Specification and Github Actions.
+* [CCMenu](http://ccmenu.org/)  OSx build status monitor for servers tha support CCTray Specification.
 
 ## Infrastructure
 The hardware,virtual machines, fram management, docker  
@@ -223,6 +226,7 @@ The tools for web site deploy
 * [xl-deploy](https://xebialabs.com/products/xl-deploy)  Agentless, Model-based App Deployment  
 * [Jenkinsdeployplugin](https://wiki.jenkins-ci.org/display/JENKINS/Deploy%20Plugin)   deploy to tomcat  
 * [bintray](https://bintray.com)  The fastest and most reliable way to automate the distribution of your software releases  
+* [Gitploy](https://www.gitploy.io/) Build the deployment system around GitHub in minutes
 
 ## Delivery
 The tools for software delivery  
@@ -273,6 +277,7 @@ VM application and container
 Database version control system  
 * [liquibase](http://www.liquibase.org) source control for your database  
 * [flywaydb](http://flywaydb.org) Database Migrations Made Easy  
+* [Rumba RDBM](https://www.dbinvent.com/) Database migration tool, plain-SQL, and declarative definition supported.
 * [dbdeploy](http://dbdeploy.com) dbdeploy is a Database Change Management tool. It’s for developers or DBAs who want to evolve their database design – or refactor their database – in a simple, controlled, flexible and frequent manner   
 * [dbmaestro](http://www.dbmaestro.com/)  Controlled Database Continuous Delivery is Our Business  
 
@@ -289,6 +294,8 @@ Conference and submit
 * [Securing DevOps](https://manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) - A book on utilizing CI/CD techniques to improve the security of web applications and their infrastructure.
 * [Learning Continuous Integraion with TeamCity](https://www.packtpub.com/web-development/learning-continuous-integration-teamcity-raw) - Master the principles and practices behind Continuous Integration by setting it up for different technology stacks using TeamCity
 * [Pipeline as Code](https://www.manning.com/books/pipeline-as-code) - A book on building CI/CD pipelines with Jenkins for cloud-native applications (including K8s & Serverless apps).
+* [Continuous Delivery for Kubernetes](https://www.manning.com/books/continuous-delivery-for-kubernetes) - Take the fast track in your journey to continuous delivery, with open source tools for Kubernetes and cloud applications
+* [Continuous Delivery in Go](https://www.manning.com/books/continuous-delivery-in-go) - Book that shows you how to build pipelines that optimize your development process so you can deliver software seamlessly to production.
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in  
@@ -300,6 +307,8 @@ Other amazingly awesome lists can be found in
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
 * [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services)
 * [awesome-docker](https://github.com/veggiemonk/awesome-docker)  
+*[awesome-cicd](https://github.com/awsomecicd/awesomecicd.git)
+
 
 ## Contact
 Welcome To add new items about continuous integration and continuous delivery.  
