@@ -110,7 +110,6 @@ Online build release system
 * [DeployPlace](https://deployplace.com) - Complex deployments become simple. Deploy your applications from git or CI in minutes.
 * [Buildkite](https://buildkite.com) - Lightning fast testing and delivery for all your software projects
 
-
 ## Monitoring
 Tools for monitoring the status continuous integration and continuous delivery  
 * [CatLight](https://catlight.io)  Build status monitor for Jenkins, TeamCity, Travis CI, Appveyor and TFS
