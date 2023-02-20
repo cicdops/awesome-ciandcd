@@ -51,7 +51,8 @@ The theory for continuous integration and continuous deliver
 
 ## Build And Release System
 The system for software build and release, continuous integration and continuous delivery  
-* [Jenkins](http://jenkins-ci.org)  An extendable open source continuous integration server  
+* [Jenkins](http://jenkins-ci.org) An extendable open source continuous integration server  
+* [Buddy](https://buddy.works) user-friendly alternative to Jenkins with visualized deployment pipelines and 150+ preconfigured actions. Supports GitOps, ChatOps, SRE, serverless, mobile development (iOS & Android), Docker/Kubernetes. Unique feature: disposable test environments (no infrastructure required).
 * [Solano CI](https://www.solanolabs.com)  Faster Continuous Integration and Deployment with patented auto-parallelization. See results 10 to 80x faster. 14-day free trial. No credit card required.
 * [Concourse](https://concourse-ci.org) Rather than a myriad of checkboxes, pipelines are defined as a single declarative config file
 * [BuildForge](https://jazz.net/downloads/rational-build-forge/)  Automate and accelerate build and release processes  
@@ -108,7 +109,6 @@ Online build release system
 * [Cirrus CI](https://cirrus-ci.org) Free for open source, supports Linux, Windows, macOS and FreeBSD, flexible hosted CI service  
 * [DeployPlace](https://deployplace.com) - Complex deployments become simple. Deploy your applications from git or CI in minutes.
 * [Buildkite](https://buildkite.com) - Lightning fast testing and delivery for all your software projects
-
 
 ## Monitoring
 Tools for monitoring the status continuous integration and continuous delivery  
