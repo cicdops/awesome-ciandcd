@@ -69,7 +69,8 @@ and developer-friendly build server out of the box
 * [cruisecontrol](http://www.cruisecontrolnet.org)  CruiseControl.NET, an Automated Continuous Integration server, implemented using the .NET Framework  
 * [continuum](http://continuum.apache.org/) Apache Continuum™ is an enterprise-ready continuous integration server with features such as automated builds, release management, role-based security, and integration with popular build tools and source control management systems  
 * [quickbuild](http://www.pmease.com/)  GitHub integration. Perforce shelve support. Coverity report rendering. Subversion external change retrieval. Resource access info. Display reasons for waiting steps. Custom build and request columns. Favorite dash board list. Inheritable environment variables.And much more...  
-* [rexify](http://www.rexify.org//)  perl Deployment & Configuration Management  
+* [rexify](http://www.rexify.org//)  perl Deployment & Configuration Management
+* [Semaphore CE](https://github.com/semaphoreio/semaphore) — Open-source (Apache-2) self-hosted CI/CD. Runs on K3s and Kubernetes. Works with all languages. Integrates with GitHub, BitBucket, GitLab, and any Git-SCM server
 * [SimpleCI](https://github.com/simpleci/simpleci) Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.  
 * [pulse](http://zutubi.com) no free version.  
 * [PHP Censor](https://github.com/php-censor/php-censor) Open source self-hosted continuous integration server for PHP projects.  
@@ -102,7 +103,6 @@ Online build release system
 * [GitLab CI](https://about.gitlab.com/gitlab-ci/) - Based off of ruby. They also provide GitLab, which manages git repositories. 
 * [IBM DevOps Services](https://hub.jazz.net) - Develop, track, plan, and deploy software onto the IBM Bluemix cloud platform.  
 * [deploybot](https://deploybot.com) - Instantly build and ship code anywhere in one consistent process for your entire team.
-* [Semaphore CI](https://semaphoreci.com/) — Fast and easy to use continuous integration and deployment service with native Docker support.
 * [flow.ci](https://flow.ci/) - flow.ci, hosted continuous integration and delivery service for innovators who shape the future.
 * [Bitrise](https://www.bitrise.io/)  Cloud based continuous integration and delivery for mobile, free for OSS  
 * [Cirrus CI](https://cirrus-ci.org) Free for open source, supports Linux, Windows, macOS and FreeBSD, flexible hosted CI service  
