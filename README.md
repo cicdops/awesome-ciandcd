@@ -227,6 +227,7 @@ The tools for web site deploy
 * [Jenkinsdeployplugin](https://wiki.jenkins-ci.org/display/JENKINS/Deploy%20Plugin)   deploy to tomcat  
 * [bintray](https://bintray.com)  The fastest and most reliable way to automate the distribution of your software releases  
 * [Gitploy](https://www.gitploy.io/) Build the deployment system around GitHub in minutes
+* [DeployHQ CLI](https://github.com/deployhq/deployhq-cli) CLI for DeployHQ with GitHub Actions integration, JSON output, and CI/CD-friendly authentication
 
 ## Delivery
 The tools for software delivery  
