@@ -38,6 +38,7 @@ devops
 - [Books](#books)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contact](#contact)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for CI/CD pipeline automation, multi-agent build orchestration, and automated deployment coordination. MIT licensed.
 
 ## Theory
 The theory for continuous integration and continuous deliver  
