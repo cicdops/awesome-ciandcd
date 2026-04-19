@@ -227,6 +227,7 @@ The tools for web site deploy
 * [Jenkinsdeployplugin](https://wiki.jenkins-ci.org/display/JENKINS/Deploy%20Plugin)   deploy to tomcat  
 * [bintray](https://bintray.com)  The fastest and most reliable way to automate the distribution of your software releases  
 * [Gitploy](https://www.gitploy.io/) Build the deployment system around GitHub in minutes
+* [Qovery](https://www.qovery.com/) Enterprise Kubernetes management platform for deploying applications, databases, Helm charts, and Terraform modules. Auto-deploy on git push with preview environments. Includes Terraform provider, CLI, and [AI Agent Skill](https://github.com/Qovery/qovery-skills).
 
 ## Delivery
 The tools for software delivery  
