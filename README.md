@@ -52,6 +52,7 @@ The theory for continuous integration and continuous deliver
 ## Build And Release System
 The system for software build and release, continuous integration and continuous delivery  
 * [Jenkins](http://jenkins-ci.org)  An extendable open source continuous integration server  
+* [Jaypore CI](https://www.jayporeci.in)  A small, very flexible, powerful system for automation that is offline and local first.
 * [Solano CI](https://www.solanolabs.com)  Faster Continuous Integration and Deployment with patented auto-parallelization. See results 10 to 80x faster. 14-day free trial. No credit card required.
 * [Concourse](https://concourse-ci.org) Rather than a myriad of checkboxes, pipelines are defined as a single declarative config file
 * [BuildForge](https://jazz.net/downloads/rational-build-forge/)  Automate and accelerate build and release processes  
