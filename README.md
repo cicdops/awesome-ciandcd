@@ -218,7 +218,8 @@ The tools for software package and installation
 * [yum](http://yum.baseurl.org)  Yum is an automatic updater and package installer/remover for rpm systems  
 * [fpm](https://github.com/jordansissel/fpm) Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.  
 * [wix](http://wixtoolset.org/) The most powerful set of tools available to create your Windows installation experience.  
-* [packer](https://www.packer.io/)  Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.  
+* [packer](https://www.packer.io/)  Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+* [KitOps](https://kitops.ml) Kit is an open source MLOps project that packages your model, datasets, code, and configuration so data scientists and developers can use their preferred tools while collaborating effortlessly.
 
 ## Deploy
 The tools for web site deploy  
