@@ -209,6 +209,7 @@ Software testing framework and tools
 * [Monkey Test It](https://monkeytest.it) Free automated website tester with CURLable API
 * [Assertible](https://assertible.com) Continuous post deployment testing for GitHub
 * [Macaca](https://github.com/alibaba/macaca) Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms
+* [fakecloud](https://github.com/faiscadev/fakecloud) Free, open-source local AWS cloud emulator for integration tests, single binary with 23 services at 100% conformance and real Lambda execution
 
 ## Package
 The tools for software package and installation  
