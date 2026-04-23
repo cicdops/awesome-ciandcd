@@ -209,6 +209,7 @@ Software testing framework and tools
 * [Monkey Test It](https://monkeytest.it) Free automated website tester with CURLable API
 * [Assertible](https://assertible.com) Continuous post deployment testing for GitHub
 * [Macaca](https://github.com/alibaba/macaca) Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms
+* [Sherlo](https://sherlo.io) Visual testing platform for React Native Storybook — captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically
 
 ## Package
 The tools for software package and installation  
