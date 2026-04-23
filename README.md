@@ -81,6 +81,7 @@ and developer-friendly build server out of the box
 
 ## Online Build System
 Online build release system  
+* [YAML Validator](https://yamlvalidator.dev), [(chrome extension)](https://chromewebstore.google.com/detail/yaml-validator/gjgbohnlhijomhfiflapnlnmcpckgigg) - Online YAML validator and formatter with JSON Schema support for CI/CD configs including GitHub Actions, CircleCI, and Bitbucket Pipelines.  
 * [appcircle.io](https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online device emulators.
 * [closeheat](http://closeheat.com) Static website integration with GitHub and Cloud development environment
 * [travis-ci](https://travis-ci.org) ci server for github and bitbuckets  
