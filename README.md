@@ -38,6 +38,7 @@ devops
 - [Books](#books)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contact](#contact)
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 ## Theory
 The theory for continuous integration and continuous deliver  
