@@ -184,7 +184,8 @@ Software static check tools
 * [cpd](http://pmd.sourceforge.net/pmd-4.3.0/cpd.html) Duplicate code can be hard to find, especially in a large project. But PMD's Copy/Paste Detector (CPD) can find it for you  
 * [sonar](http://www.sonarqube.org)  SonarQube is an open platform to manage code quality  
 * [findbugs](http://findbugs.sourceforge.net)  Find Bugs in Java Programs   
-* [checkstyle](http://checkstyle.sourceforge.net)  Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard  
+* [checkstyle](http://checkstyle.sourceforge.net)  Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard
+* [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 
 ## Dynamic Check
 Software dynamic check tools  
