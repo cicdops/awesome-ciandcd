@@ -209,6 +209,7 @@ Software testing framework and tools
 * [Monkey Test It](https://monkeytest.it) Free automated website tester with CURLable API
 * [Assertible](https://assertible.com) Continuous post deployment testing for GitHub
 * [Macaca](https://github.com/alibaba/macaca) Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms
+* [TestDino](https://github.com/TestDinoHQ) – Test reporting and observability for CI pipelines with flaky-test tracking and AI-assisted failure analysis.
 
 ## Package
 The tools for software package and installation  
