@@ -83,6 +83,7 @@ and developer-friendly build server out of the box
 Online build release system  
 * [appcircle.io](https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online device emulators.
 * [closeheat](http://closeheat.com) Static website integration with GitHub and Cloud development environment
+* [pushci](https://pushci.dev) AI-native zero-config CI/CD. Auto-detects 19 languages, 40+ frameworks, runs locally for free. Replaces GitHub Actions with zero YAML. `npx pushci init`  
 * [travis-ci](https://travis-ci.org) ci server for github and bitbuckets  
 * [cloudbees](https://www.cloudbees.com/) the Enterprise Jenkins Company  
 * [elasticbox](https://elasticbox.com)  A DevOps approach that focuses on reusable application components as a service, and enables operations to provide IT as a Service  
