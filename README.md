@@ -77,7 +77,8 @@ and developer-friendly build server out of the box
 * [cds](https://ovh.github.io/cds) CDS is an Enterprise-Grade Continuous Delivery & DevOps Automation Platform written in Go(lang).
 * [Drone CI](https://drone.io/) Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.  
 * [Luigi](https://github.com/spotify/luigi) Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.  
-* [Kraken CI](https://kraken.ci) Kraken CI is a modern CI/CD, open-source, on-premise system that is highly scalable and focused on testing.  
+* [Kraken CI](https://kraken.ci) Kraken CI is a modern CI/CD, open-source, on-premise system that is highly scalable and focused on testing.
+* [PikoCI](https://pikoci.com) Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable abstractions.
 
 ## Online Build System
 Online build release system  
