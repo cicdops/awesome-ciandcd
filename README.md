@@ -50,6 +50,7 @@ The theory for continuous integration and continuous deliver
 * [devops_roadmap](https://github.com/kamranahmedse/developer-roadmap)  
 
 ## Build And Release System
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Detects breaking API changes in PRs using AST analysis with AI auto-fix.
 The system for software build and release, continuous integration and continuous delivery  
 * [Jenkins](http://jenkins-ci.org)  An extendable open source continuous integration server  
 * [Solano CI](https://www.solanolabs.com)  Faster Continuous Integration and Deployment with patented auto-parallelization. See results 10 to 80x faster. 14-day free trial. No credit card required.
@@ -161,6 +162,7 @@ Code review tools
 * [Ebert](https://ebertapp.io) Ebert does continuous static analysis of your GitHub repositories and delivers it straight to your Pull Requests, helping your team to focus on what's important and deliver better software.
 
 ## Build
+- [BreakShield CI](https://breakshield-ci.vercel.app) - Detects breaking API changes in PRs using AST analysis with AI auto-fix.
 Build tools  
 * [gnumake](http://www.gnu.org/software/make/) GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program's source files  
 * [gnuautoconf](http://www.gnu.org/software/autoconf/) Autoconf is an extensible package of M4 macros that produce shell scripts to automatically configure software source code packages  
@@ -314,5 +316,3 @@ Other amazingly awesome lists can be found in
 Welcome To add new items about continuous integration and continuous delivery.  
 my email is: itech001@126.com.  
   
-
-
