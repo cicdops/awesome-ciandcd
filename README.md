@@ -194,6 +194,7 @@ Software dynamic check tools
 ## Performance Analysis
 Software performance analysis tools  
 * [performance tools wiki](https://en.wikipedia.org/wiki/List_of_performance_analysis_tools)  wiki page    
+* [oracletrace](https://github.com/KaykCaputo/oracletrace) python performance regression detection tool with execution trace diffing and CI/CD integration
 
 ## Coverage
 Software testing coverage tools  
