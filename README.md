@@ -78,6 +78,7 @@ and developer-friendly build server out of the box
 * [Drone CI](https://drone.io/) Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.  
 * [Luigi](https://github.com/spotify/luigi) Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.  
 * [Kraken CI](https://kraken.ci) Kraken CI is a modern CI/CD, open-source, on-premise system that is highly scalable and focused on testing.  
+* [Pipewright](https://github.com/huangchengsir/pipewright) Lightweight self-hosted CI/CD, deployment and ops platform in a single Go binary, with visual DAG pipelines, agentless deployment over SSH, container management and a web terminal.  
 
 ## Online Build System
 Online build release system  
