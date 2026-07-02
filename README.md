@@ -237,6 +237,7 @@ The tools for software delivery
 * [pulp](http://www.pulpproject.org/)  Pulp is a platform for managing repositories of content, such as software packages, and pushing that content out to large numbers of consumers.  
 * [herd](https://github.com/russss/Herd) A single-command bittorrent distribution system, based on Twitter's Murder     
 * [murder](https://github.com/lg/murder)  Large scale server deploys using BitTorrent and the BitTornado library from twitter.com  
+* [ocihub](https://ocihub.com) - Free anonymous Docker/OCI registry where the tag sets the image lifetime (`1h`, `2d`) — push, pull, and let it expire; ideal for passing images between CI jobs.
 
 ## Provisioning Tools 
 Provision tools
