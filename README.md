@@ -89,7 +89,8 @@ Online build release system
 * [coveralls](https://coveralls.io)  Track your project's code coverage over time, changes to files, and badge your GitHub repo  
 * [shippable](https://app.shippable.com/)  Hosted continuous integration and deployment service built on docker  
 * [circleci](https://circleci.com)  Continuous Integration for web apps.  
-* [buildbox](https://buildkite.com/)  Simple self-hosted Continuous Integration  
+* [buildbox](https://buildkite.com/)  Simple self-hosted Continuous Integration
+* [Buddy](https://buddy.works) - Hosted CI/CD pipelines, sandbox VMs and app hosting for developers and AI coding agents
 * [drone](https://drone.io) Open source continuous integration platform built on Docker  
 * [appveyor](http://www.appveyor.com)  Continuous Integration and Deployment service for busy Windows  
 * ~~[snap-ci](https://snap-ci.com) Easy builds, deployed when you want~~.
