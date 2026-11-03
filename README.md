@@ -174,6 +174,7 @@ Build tools
 * [ElectricacCelerator](http://electric-cloud.com/products/electricaccelerator)   Continuous Delivery isn’t continuous if builds and tests take too long to complete. ElectricAccelerator speeds up builds and tests by up to 20X, improving software time to market, infrastructure utilization and developer productivity  
 * [SBT](http://www.scala-sbt.org/index.html)  sbt is an open source build tool for Scala and Java projects.
 * [do](https://github.com/8gears/do)  The simplest build tool on earth. Agnostic and multipurpose build tool and a build file. Tries to be better than the usual shell hell.
+* [videoupscaler-action](https://github.com/arkyu2077/videoupscaler-action)  GitHub Action to upscale, denoise, stabilize, and interpolate demo and release videos up to 4K 60fps in CI/CD pipelines.
 
 
 ## Static Check
