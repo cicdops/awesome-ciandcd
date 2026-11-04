@@ -159,6 +159,7 @@ Code review tools
 * [Codebrag](http://www.codebrag.com/)  Codebrag is a simple code review tool that makes the process work for your team.  
 * [Upsource](https://www.jetbrains.com/upsource/) Polyglot Code Review Tool, featuring code insight for PHP, JavaScript and Kotlin, GitHub integration, automated workflows, integration with CI servers
 * [Ebert](https://ebertapp.io) Ebert does continuous static analysis of your GitHub repositories and delivers it straight to your Pull Requests, helping your team to focus on what's important and deliver better software.
+* [AI CodeOps](https://aicodeops.dev/) AI agents plan, build, review and test code; a pull request opens only after tests pass, AI review has no high/critical findings and a person approves
 
 ## Build
 Build tools  
