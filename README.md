@@ -235,6 +235,7 @@ The tools for software delivery
 * [nexus](http://www.sonatype.com/nexus)  The use of repository managers (also known as component managers) is helping software development teams achieve simple gains in speed, efficiency, and quality of their operations  
 * [chocolatey](https://chocolatey.org/) Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind  
 * [pulp](http://www.pulpproject.org/)  Pulp is a platform for managing repositories of content, such as software packages, and pushing that content out to large numbers of consumers.  
+* [CloudRepo](https://www.cloudrepo.io/)  Fully managed private Maven, npm, PyPI and Docker repositories.  
 * [herd](https://github.com/russss/Herd) A single-command bittorrent distribution system, based on Twitter's Murder     
 * [murder](https://github.com/lg/murder)  Large scale server deploys using BitTorrent and the BitTornado library from twitter.com  
 
