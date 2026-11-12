@@ -108,7 +108,7 @@ Online build release system
 * [Cirrus CI](https://cirrus-ci.org) Free for open source, supports Linux, Windows, macOS and FreeBSD, flexible hosted CI service  
 * [DeployPlace](https://deployplace.com) - Complex deployments become simple. Deploy your applications from git or CI in minutes.
 * [Buildkite](https://buildkite.com) - Lightning fast testing and delivery for all your software projects
-
+* [Land](https://useland.dev) Hosted merge validation for coding agents: tests combined branch changes and reports failures with reproduction commands.
 
 ## Monitoring
 Tools for monitoring the status continuous integration and continuous delivery  
